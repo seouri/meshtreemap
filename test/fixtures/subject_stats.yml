@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  subject_id: 1
+  year: 1
+  self_count: 1
+  descendant_count: 1
+
+two:
+  subject_id: 1
+  year: 1
+  self_count: 1
+  descendant_count: 1

@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  term: MyString
+  self_counts: 1
+  descendant_counts: 1
+
+two:
+  term: MyString
+  self_counts: 1
+  descendant_counts: 1

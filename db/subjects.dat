@@ -1,0 +1,5657 @@
+999909	Anthropology, Education, Sociology and Social Phenomena [I]
+4493	Education
+4517	Education, Professional
+4501	Education, Medical
+999903	Diseases [C]
+9369	Neoplasms
+9057	Stomatognathic Diseases
+9059	Mouth Diseases
+10510	Periodontal Diseases
+9422	Nervous System Diseases
+9461	Neurologic Manifestations
+10146	Pain
+17437	Skin and Connective Tissue Diseases
+12871	Skin Diseases
+10859	Pigmentation Disorders
+17496	Hypopigmentation
+14820	Vitiligo
+13568	Pathological Conditions, Signs and Symptoms
+12816	Signs and Symptoms
+999904	Chemicals and Drugs [D]
+644	Quaternary Ammonium Compounds
+9930	Organic Chemicals
+588	Amines
+13757	Tetraethylammonium Compounds
+19789	Tetraethylammonium
+9861	Onium Compounds
+11603	Psychophysiology
+999906	Psychiatry and Psychology [F]
+4989	Ethics
+11579	Psychological Phenomena and Processes
+12677	Sensation
+4191	Behavioral Disciplines and Activities
+1525	Behavioral Sciences
+11570	Psychiatry
+11613	Psychotherapy
+999907	Phenomena and Processes [G]
+55687	Musculoskeletal and Neural Physiological Phenomena
+9424	Nervous System Physiological Phenomena
+52778	Nervous System Physiological Processes
+999908	Disciplines and Occupations [H]
+10811	Natural Science Disciplines
+1690	Biological Science Disciplines
+715	Anatomy
+10825	Physics
+12586	Science
+12106	Research
+35843	Biomedical Research
+6281	Health Occupations
+8511	Medicine
+13040	Specialties, Medical
+11315	Preventive Medicine
+9787	Occupational Medicine
+11634	Public Health
+13043	Specialties, Surgical
+13502	General Surgery
+9774	Obstetrics
+10036	Otolaryngology
+10604	Pharmacy
+4505	Education, Nonprofessional
+6266	Health Education
+12574	Schools
+13334	Students
+4500	Education, Graduate
+4503	Education, Medical, Graduate
+7396	Internship and Residency
+12576	Schools, Health Occupations
+12577	Schools, Medical
+13336	Students, Health Occupations
+13337	Students, Medical
+999910	Technology, Industry, Agriculture [J]
+13676	Technology, Industry, and Agriculture
+13672	Technology
+18961	Educational Technology
+1296	Audiovisual Aids
+9040	Motion Pictures as Topic
+999911	Humanities [K]
+6809	Humanities
+26690	Ethics, Clinical
+4995	Ethics, Professional
+4992	Ethics, Medical
+6664	History
+8091	Literature
+1680	Biography as Topic
+999912	Information Science [L]
+7254	Information Science
+3146	Communications Media
+8402	Mass Media
+13664	Teaching Materials
+999913	Named Groups [M]
+9272	Persons
+9274	Occupational Groups
+6282	Health Personnel
+10820	Physicians
+999914	Health Care [N]
+11154	Population Characteristics
+6262	Health
+5159	Health Care Facilities, Manpower, and Services
+6268	Health Facilities
+46	Academic Medical Centers
+6761	Hospitals
+6296	Health Services
+3153	Community Health Services
+11314	Preventive Health Services
+17530	Health Care Quality, Access, and Evaluation
+4778	Environment and Public Health
+999926	Geographicals [Z]
+5842	Geographic Locations
+5060	Europe
+5858	Germany
+17516	Historical Geographic Locations
+999901	Anatomy [A]
+1829	Body Regions
+5	Abdomen
+1415	Back
+12445	Sacrococcygeal Region
+5121	Extremities
+35002	Lower Extremity
+5528	Foot
+5545	Forefoot, Human
+14034	Toes
+13909	Thorax
+9141	Musculoskeletal System
+9132	Muscles
+18482	Muscle, Skeletal
+12132	Respiratory Muscles
+3964	Diaphragm
+9206	Myocardium
+12863	Skeleton
+1842	Bone and Bones
+14566	Urogenital System
+5835	Genitalia
+5836	Genitalia, Female
+14599	Uterus
+4717	Endometrium
+4703	Endocrine System
+4702	Endocrine Glands
+13961	Thyroid Gland
+2319	Cardiovascular System
+6321	Heart
+9420	Nervous System
+2490	Central Nervous System
+1921	Brain
+16548	Prosencephalon
+13687	Telencephalon
+54022	Cerebrum
+2540	Cerebral Cortex
+14024	Tissues
+54792	Muscle, Striated
+2477	Cells
+22082	Cellular Structures
+42541	Intracellular Space
+3593	Cytoplasm
+22083	Cytoplasmic Structures
+15388	Organelles
+8928	Mitochondria
+13347	Subcellular Fractions
+34582	Integumentary System
+9262	Nails
+1423	Bacterial Infections and Mycoses
+1424	Bacterial Infections
+16908	Gram-Positive Bacterial Infections
+193	Actinomycetales Infections
+9164	Mycobacterium Infections
+14376	Tuberculosis
+14394	Tuberculosis, Osteoarticular
+14397	Tuberculosis, Pulmonary
+2494	Central Nervous System Infections
+7239	Infection
+1850	Bone Diseases, Infectious
+13166	Spondylitis
+12141	Respiratory Tract Infections
+9181	Mycoses
+6660	Histoplasmosis
+14777	Virus Diseases
+20805	Central Nervous System Viral Diseases
+9187	Myelitis
+11051	Poliomyelitis
+12327	RNA Virus Infections
+10850	Picornaviridae Infections
+4769	Enterovirus Infections
+9371	Neoplasms by Site
+1943	Breast Neoplasms
+9140	Musculoskeletal Diseases
+1847	Bone Diseases
+13122	Spinal Diseases
+7592	Joint Diseases
+1168	Arthritis
+1172	Arthritis, Rheumatoid
+12216	Rheumatic Diseases
+12140	Respiratory Tract Diseases
+8171	Lung Diseases
+2493	Central Nervous System Diseases
+13118	Spinal Cord Diseases
+16472	Motor Neuron Disease
+19954	Neurobehavioral Manifestations
+3147	Communication Disorders
+7806	Language Disorders
+13064	Speech Disorders
+8607	Mental Retardation
+9468	Neuromuscular Diseases
+52801	Male Urogenital Diseases
+14570	Urologic Diseases
+7674	Kidney Diseases
+5261	Female Urogenital Diseases and Pregnancy Complications
+52776	Female Urogenital Diseases
+2318	Cardiovascular Diseases
+18376	Cardiovascular Abnormalities
+6331	Heart Diseases
+6349	Heart Valve Diseases
+8946	Mitral Valve Stenosis
+14652	Vascular Diseases
+16769	Embolism and Thrombosis
+13923	Thromboembolism
+13927	Thrombosis
+6425	Hemic and Lymphatic Diseases
+8206	Lymphatic Diseases
+8232	Lymphoproliferative Disorders
+12507	Sarcoidosis
+9358	Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+13	Congenital Abnormalities
+3240	Connective Tissue Diseases
+1941	Breast Diseases
+11537	Pruritus
+12877	Skin Manifestations
+9750	Nutritional and Metabolic Diseases
+8659	Metabolic Diseases
+44882	Glucose Metabolism Disorders
+3920	Diabetes Mellitus
+4700	Endocrine System Diseases
+7154	Immune System Diseases
+1327	Autoimmune Diseases
+6967	Hypersensitivity
+7280	Disorders of Environmental Origin
+9784	Occupational Diseases
+19966	Substance-Related Disorders
+19973	Alcohol-Related Disorders
+437	Alcoholism
+14947	Wounds and Injuries
+10335	Pathologic Processes
+20969	Disease Attributes
+2908	Chronic Disease
+4630	Emergencies
+7287	Inorganic Chemicals
+6851	Hydrochloric Acid
+17606	Chlorine Compounds
+2712	Chlorides
+12965	Sodium Chloride
+7554	Isotopes
+11868	Radioisotopes
+11849	Radioactive Tracers
+17670	Sodium Compounds
+13457	Sulfur Compounds
+9943	Organophosphorus Compounds
+9946	Organothiophosphorus Compounds
+10278	Parathion
+13844	Thiazoles
+13830	Thiadiazoles
+86	Acetazolamide
+6571	Heterocyclic Compounds
+6573	Heterocyclic Compounds, 1-Ring
+1393	Azoles
+11743	Pyrimidines
+11744	Pyrimidinones
+1463	Barbiturates
+6730	Hormones, Hormone Substitutes, and Hormone Antagonists
+6728	Hormones
+305	Adrenal Cortex Hormones
+8055	Lipids
+5227	Fatty Acids
+9706	Nucleic Acids, Nucleotides, and Nucleosides
+9696	Nucleic Acids
+45424	Complex Mixtures
+1688	Biological Products
+14612	Vaccines
+1428	Bacterial Vaccines
+32581	Tuberculosis Vaccines
+1500	BCG Vaccine
+20164	Chemical Actions and Uses
+20228	Pharmacologic Actions
+45505	Physiological Effects of Drugs
+2492	Central Nervous System Depressants
+9294	Narcotics
+18373	Peripheral Nervous System Agents
+1337	Autonomic Agents
+18689	Sensory System Agents
+700	Analgesics
+45506	Therapeutic Uses
+2491	Central Nervous System Agents
+20313	Specialty Uses of Chemicals
+16573	Agrochemicals
+10575	Pesticides
+7306	Insecticides
+11042	Poisons
+4786	Toxic Actions
+9676	Noxae
+999905	Analytical, Diagnostic and Therapeutic Techniques and Equipment [E]
+3933	Diagnosis
+19937	Diagnostic Techniques and Procedures
+3952	Diagnostic Imaging
+10781	Photography
+11859	Radiography
+3940	Diagnostic Techniques, Endocrine
+13960	Thyroid Function Tests
+10808	Physical Examination
+1314	Auscultation
+1824	Body Constitution
+10474	Percussion
+13812	Therapeutics
+1452	Balneology
+1691	Biological Therapy
+1803	Blood Transfusion
+7167	Immunotherapy
+7114	Immunization
+7116	Immunization, Passive
+9945	Organotherapy
+14023	Tissue Therapy
+529	Complementary Therapies
+6705	Homeopathy
+26443	Spiritual Therapies
+4638	Emergency Treatment
+5392	First Aid
+6920	Hygiene
+5791	Patient Care
+553	Ambulatory Care
+9732	Nursing Care
+26741	Physical Therapy Modalities
+11878	Radiotherapy
+12046	Rehabilitation
+203	Activities of Daily Living
+9788	Occupational Therapy
+760	Anesthesia and Analgesia
+758	Anesthesia
+13514	Surgical Procedures, Operative
+19635	Neurosurgical Procedures
+3714	Denervation
+17763	Autonomic Denervation
+13562	Sympathectomy
+8919	Investigative Techniques
+1344	Autopsy
+19411	Clinical Laboratory Techniques
+3584	Cytological Techniques
+16591	Histocytological Preparation Techniques
+13194	Staining and Labeling
+6652	Histological Techniques
+4032	Diet
+4812	Epidemiologic Methods
+3625	Data Collection
+11996	Records as Topic
+8499	Medical Records
+13223	Statistics as Topic
+7158	Immunologic Techniques
+8722	Methods
+19370	Observation
+13679	Technology, Radiologic
+3813	Dentistry
+3748	Dental Equipment
+3762	Dental Instruments
+13674	Technology, Dental
+4864	Equipment and Supplies
+13523	Surgical Equipment
+9983	Orthopedic Equipment
+1520	Behavior and Behavior Mechanisms
+1519	Behavior
+3142	Communication
+7802	Language
+12725	Sexual Behavior
+10551	Personality
+11593	Psychology, Social
+5190	Family
+5191	Family Characteristics
+17533	Marital Status
+8393	Marriage
+8603	Mental Health
+8606	Mental Processes
+7858	Learning
+11582	Psychological Theory
+11574	Psychoanalytic Theory
+11585	Psychology, Applied
+11588	Psychology, Educational
+4495	Education of Mentally Retarded
+14830	Vocational Guidance
+11590	Psychology, Industrial
+6309	Hearing
+1523	Mental Disorders
+19952	Mental Disorders Diagnosed in Childhood
+11611	Psychosomatic Medicine
+11584	Psychology
+12942	Social Sciences
+883	Anthropology
+12961	Sociology
+11581	Psychological Tests
+1077	Aptitude Tests
+10556	Personality Tests
+11386	Projective Techniques
+7282	Ink Blot Tests
+12392	Rorschach Test
+11575	Psychoanalytic Therapy
+55585	Physical Phenomena
+55590	Electromagnetic Phenomena
+11827	Radiation
+11839	Radiation, Ionizing
+14965	X-Rays
+55598	Chemical Phenomena
+1669	Biochemical Phenomena
+1823	Body Composition
+55754	Metabolic Phenomena
+10829	Physiological Phenomena
+9747	Nutritional Physiological Phenomena
+55705	Physiological Processes
+48788	Growth and Development
+375	Aging
+13312	Stress, Physiological
+12101	Reproductive and Urinary Physiological Phenomena
+55703	Reproductive Physiological Phenomena
+55704	Reproductive Physiological Processes
+12098	Reproduction
+11247	Pregnancy
+12727	Sex Characteristics
+2943	Circulatory and Respiratory Physiological Phenomena
+2320	Cardiovascular Physiological Phenomena
+6439	Hemodynamics
+1794	Blood Pressure
+55827	Integumentary System Physiological Phenomena
+12879	Skin Physiological Phenomena
+4777	Environment
+3585	Cytology
+6653	Histology
+1671	Biochemistry
+1695	Biology
+4463	Ecology
+5823	Genetics
+10274	Parasitology
+15046	Zoology
+4772	Entomology
+10600	Pharmacology
+10827	Physiology
+2621	Chemistry
+8433	Mathematics
+9686	Nuclear Physics
+16390	Allied Health Occupations
+2684	Chiropractic
+4782	Environmental Health
+12499	Sanitation
+6298	Health Services Administration
+6739	Hospital Administration
+8488	Medical Illustration
+337	Aerospace Medicine
+15510	Clinical Medicine
+4813	Epidemiology
+5554	Forensic Medicine
+8887	Military Medicine
+9326	Naval Medicine
+10021	Osteopathic Medicine
+12936	Social Medicine
+776	Anesthesiology
+3880	Dermatology
+5194	Family Practice
+5853	Geriatrics
+7388	Internal Medicine
+2309	Cardiology
+5762	Gastroenterology
+9462	Neurology
+10336	Pathology
+10372	Pediatrics
+10810	Physical Medicine
+11871	Radiology
+6176	Gynecology
+9493	Neurosurgery
+9885	Ophthalmology
+9985	Orthopedics
+13518	Surgery, Plastic
+14572	Urology
+14330	Tropical Medicine
+9729	Nursing
+13041	Specialties, Nursing
+8880	Midwifery
+11637	Public Health Nursing
+52756	Nutritional Sciences
+13038	Specialism
+14730	Veterinary Medicine
+884	Anthropology, Cultural
+3469	Culture
+2962	Civilization
+19366	Western World
+18644	Roman World
+3418	Criminology
+44707	Forensic Sciences
+3710	Demography
+4467	Economics
+6078	Government Programs
+2959	Civil Defense
+38622	Internationality
+7391	International Cooperation
+12926	Social Control, Formal
+7603	Jurisprudence
+12940	Social Problems
+11781	Quackery
+14857	War
+9689	Nuclear Warfare
+11583	Psychological Warfare
+12946	Social Welfare
+2669	Child Welfare
+12947	Social Work
+12959	Socioeconomic Factors
+4519	Education, Special
+4497	Education, Dental
+4506	Education, Nursing
+4512	Education, Pharmacy
+4520	Education, Veterinary
+5178	Faculty
+5180	Faculty, Medical
+12575	Schools, Dental
+14495	Universities
+13663	Teaching
+6802	Human Activities
+14195	Travel
+7221	Industry
+4345	Drug Industry
+13783	Textile Industry
+13784	Textiles
+32561	Cotton Fiber
+5085	Exhibits as Topic
+13690	Television
+1154	Art
+1109	Archives
+9144	Museums
+6666	History of Medicine
+1325	Autobiography
+10684	Philosophy
+12067	Religion
+12068	Religion and Medicine
+7803	Language Arts
+11932	Reading
+14956	Writing
+15709	Correspondence as Topic
+11642	Publications
+1634	Bibliography as Topic
+1877	Books
+8373	Manuscripts as Topic
+8374	Manuscripts, Medical
+12693	Serial Publications
+10506	Periodicals as Topic
+13685	Telecommunications
+7253	Information Centers
+7990	Libraries
+7993	Libraries, Medical
+7255	Information Services
+9273	Age Groups
+2648	Child
+6233	Disabled Persons
+10822	Physicians, Women
+8889	Military Personnel
+8921	Missions and Missionaries
+10361	Patients
+44382	Population Groups
+44469	Continental Population Groups
+44383	African Continental Ancestry Group
+14728	Veterans
+14930	Women
+12111	Residence Characteristics
+6798	Housing
+16272	Occupational Health
+12423	Rural Health
+11153	Population
+6757	Hospital Units
+9873	Operating Rooms
+6782	Hospitals, Special
+6778	Hospitals, Psychiatric
+4472	Health Care Economics and Organizations
+4470	Economics, Medical
+5378	Financial Support
+5582	Foundations
+5381	Financing, Organized
+7341	Insurance
+7348	Insurance, Health
+13660	Taxes
+7183	Income Tax
+6285	Health Planning
+9313	National Health Programs
+9938	Organizations
+47	Academies and Institutes
+3226	Congresses as Topic
+7390	International Agencies
+14480	United Nations
+14944	World Health Organization
+9939	Organizations, Nonprofit
+12952	Societies
+12953	Societies, Dental
+571	American Dental Association
+12955	Societies, Medical
+574	American Medical Association
+3406	Credentialing
+8004	Licensure
+8007	Licensure, Medical
+7878	Legislation as Topic
+7883	Legislation, Medical
+9934	Organization and Administration
+11364	Professional Practice
+11787	Quality of Health Care
+11785	Quality Assurance, Health Care
+17531	Health Care Evaluation Mechanisms
+4190	Disasters
+4780	Environment, Controlled
+5107	Explosions
+59	Accidents
+56	Accident Prevention
+15991	Epidemiologic Measurements
+15980	Public Health Practice
+3140	Communicable Disease Control
+569	Americas
+9656	North America
+14481	United States
+1061	Appalachian Region
+10414	Pennsylvania
+6114	Great Lakes Region
+8873	Mid-Atlantic Region
+6113	Great Britain
+12537	Scandinavia
+9664	Norway
+7866	Leg
+6257	Head
+4423	Ear
+5123	Eye
+9333	Neck
+9801	Oculomotor Muscles
+4064	Digestive System
+41981	Gastrointestinal Tract
+7422	Intestines
+7420	Intestine, Large
+3106	Colon
+12007	Rectum
+41741	Lower Gastrointestinal Tract
+10614	Pharynx
+41742	Upper Gastrointestinal Tract
+4947	Esophagus
+13270	Stomach
+12137	Respiratory System
+8168	Lung
+5837	Genitalia, Male
+10413	Penis
+14521	Urethra
+14551	Urinary Tract
+7668	Kidney
+10902	Pituitary Gland
+9490	Neurosecretory Systems
+7030	Hypothalamo-Hypophyseal System
+1808	Blood Vessels
+1158	Arteries
+1933	Brain Stem
+12154	Reticular Formation
+7031	Hypothalamus
+4027	Diencephalon
+7033	Hypothalamus, Middle
+9417	Nerve Tissue
+9474	Neurons
+12679	Sense Organs
+5088	Exocrine Glands
+8321	Mammary Glands, Animal
+1773	Blood Cells
+4912	Erythrocytes
+41905	Erythroid Cells
+5441	Fluids and Secretions
+1826	Body Fluids
+1769	Blood
+14556	Urine
+825	Animal Structures
+13284	Stomatognathic System
+6424	Hemic and Immune Systems
+4628	Embryonic Structures
+4622	Embryo, Mammalian
+12867	Skin
+999902	Organisms [B]
+818	Animals
+828	Animal Population Groups
+830	Animals, Laboratory
+43344	Chordata
+14714	Vertebrates
+8322	Mammals
+1188	Artiodactyla
+12418	Ruminants
+2417	Cattle
+2335	Carnivora
+46028	Canidae
+4285	Dogs
+45989	Felidae
+45991	Felis
+2415	Cats
+10527	Perissodactyla
+18397	Equidae
+6736	Horses
+12377	Rodentia
+9115	Muridae
+51189	Murinae
+51379	Mice
+51381	Rats
+7448	Invertebrates
+6376	Helminths
+5658	Fungi
+10944	Plants
+10946	Plants, Medicinal
+16905	Gram-Negative Bacterial Infections
+14211	Treponemal Infections
+13587	Syphilis
+7918	Leprosy
+14399	Tuberculosis, Spinal
+13290	Streptococcal Infections
+12213	Rheumatic Fever
+12214	Rheumatic Heart Disease
+15231	Sexually Transmitted Diseases, Bacterial
+13145	Spirochaetales Infections
+3141	Communicable Diseases
+3428	Cross Infection
+12749	Sexually Transmitted Diseases
+13492	Suppuration
+38	Abscess
+10272	Parasitic Diseases
+11528	Protozoan Infections
+9370	Neoplasms by Histologic Type
+7938	Leukemia
+9375	Neoplasms, Glandular and Epithelial
+236	Adenoma
+8654	Mesothelioma
+18301	Neoplasms, Mesothelial
+4067	Digestive System Neoplasms
+5770	Gastrointestinal Neoplasms
+7414	Intestinal Neoplasms
+15179	Colorectal Neoplasms
+12004	Rectal Neoplasms
+1005	Anus Neoplasms
+14565	Urogenital Neoplasms
+5833	Genital Neoplasms, Female
+14594	Uterine Neoplasms
+2583	Uterine Cervical Neoplasms
+7405	Intervertebral Disk Displacement
+7571	Jaw Diseases
+7569	Jaw Abnormalities
+11378	Prognathism
+8336	Mandibular Diseases
+6073	Gout
+9135	Muscular Diseases
+20966	Muscular Disorders, Atrophic
+9136	Muscular Dystrophies
+9139	Musculoskeletal Abnormalities
+19465	Craniofacial Abnormalities
+19767	Maxillofacial Abnormalities
+4066	Digestive System Diseases
+16154	Digestive System Fistula
+7412	Intestinal Fistula
+12003	Rectal Fistula
+5767	Gastrointestinal Diseases
+4935	Esophageal Diseases
+7410	Intestinal Diseases
+12002	Rectal Diseases
+1004	Anus Diseases
+5401	Fissure in Ano
+11538	Pruritus Ani
+6484	Hemorrhoids
+12005	Rectal Prolapse
+13272	Stomach Diseases
+11178	Postgastrectomy Syndromes
+4377	Dumping Syndrome
+18640	Stomatognathic System Abnormalities
+14076	Tooth Diseases
+17001	Tooth Demineralization
+3731	Dental Caries
+1982	Bronchial Diseases
+1249	Asthma
+1991	Bronchitis
+8173	Lung Diseases, Obstructive
+11656	Pulmonary Emphysema
+12130	Respiratory Hypersensitivity
+13896	Thoracic Diseases
+10038	Otorhinolaryngologic Diseases
+4427	Ear Diseases
+6311	Hearing Disorders
+34381	Hearing Loss
+3638	Deafness
+20274	Autoimmune Diseases of the Nervous System
+9157	Myasthenia Gravis
+1927	Brain Diseases
+550	Amblyopia
+1480	Basal Ganglia Diseases
+20734	Parkinsonian Disorders
+1925	Brain Damage, Chronic
+2547	Cerebral Palsy
+2561	Cerebrovascular Disorders
+20765	Intracranial Arterial Diseases
+2532	Intracranial Aneurysm
+4827	Epilepsy
+9069	Movement Disorders
+15835	Ocular Motility Disorders
+3389	Cranial Nerve Diseases
+13285	Strabismus
+3244	Consciousness Disorders
+14474	Unconsciousness
+3128	Coma
+1416	Back Pain
+10243	Paralysis
+6429	Hemiplegia
+12678	Sensation Disorders
+14786	Vision Disorders
+20511	Neuromuscular Junction Diseases
+6259	Craniocerebral Trauma
+5128	Eye Diseases
+9798	Ocular Hypertension
+5901	Glaucoma
+12030	Refractive Errors
+1251	Astigmatism
+5832	Genital Diseases, Male
+7246	Infertility
+7248	Infertility, Male
+5831	Genital Diseases, Female
+7247	Infertility, Female
+14591	Uterine Diseases
+2577	Uterine Cervical Diseases
+14592	Uterine Hemorrhage
+11248	Pregnancy Complications
+5313	Fetal Death
+7744	Obstetric Labor Complications
+6473	Postpartum Hemorrhage
+11644	Puerperal Disorders
+1145	Arrhythmias, Cardiac
+6323	Heart Arrest
+17202	Myocardial Ischemia
+3327	Coronary Disease
+9203	Myocardial Infarction
+11660	Pulmonary Heart Disease
+783	Aneurysm
+6973	Hypertension
+6402	Hematologic Diseases
+1778	Blood Coagulation Disorders
+11693	Purpura
+14	Abnormalities, Drug-Induced
+30342	Genetic Diseases, Inborn
+8661	Metabolism, Inborn Errors
+11686	Purine-Pyrimidine Metabolism, Inborn Errors
+7232	Infant, Newborn, Diseases
+1238	Asphyxia Neonatorum
+3872	Dermatitis
+3877	Dermatitis, Contact
+9783	Dermatitis, Occupational
+17443	Skin Diseases, Eczematous
+17444	Skin Diseases, Papulosquamous
+11565	Psoriasis
+3922	Diabetes Mellitus, Type 1
+9748	Nutrition Disorders
+7228	Infant Nutrition Disorders
+44342	Malnutrition
+3677	Deficiency Diseases
+44343	Overnutrition
+9765	Obesity
+4342	Drug Hypersensitivity
+6969	Hypersensitivity, Immediate
+11041	Poisoning
+2056	Burns
+5151	Facial Injuries
+5131	Eye Injuries
+5129	Eye Foreign Bodies
+5547	Foreign Bodies
+11832	Radiation Injuries
+14950	Wounds, Penetrating
+14948	Wounds, Gunshot
+820	Animal Diseases
+20763	Pathological Conditions, Anatomical
+5402	Fistula
+6547	Hernia
+46449	Hernia, Abdominal
+6552	Hernia, Inguinal
+3643	Death
+2102	Cadaver
+3645	Death, Sudden
+4194	Disease
+7049	Iatrogenic Disease
+6470	Hemorrhage
+7249	Inflammation
+8599	Menstruation Disturbances
+4412	Dysmenorrhea
+11183	Postoperative Complications
+12769	Shock
+1835	Body Weight
+50177	Overweight
+5221	Fatigue
+11602	Psychophysiologic Disorders
+17699	Pelvic Pain
+12817	Signs and Symptoms, Digestive
+3967	Diarrhea
+3968	Diarrhea, Infantile
+12818	Signs and Symptoms, Respiratory
+860	Anoxia
+17554	Carbon Compounds, Inorganic
+2245	Carbon Dioxide
+4573	Electrolytes
+10087	Oxides
+5740	Gases
+2247	Carbon Isotopes
+17601	Oxygen Compounds
+2794	Choline
+13449	Sulfonamides
+50337	Trimethyl Ammonium Compounds
+13390	Succinylcholine
+14403	Tubocurarine
+2264	Carboxylic Acids
+144	Acids, Acyclic
+3998	Dicarboxylic Acids
+19822	Succinic Acids
+19802	Succinic Acid
+13386	Succinates
+146	Acids, Carbocyclic
+10648	Phenylacetates
+6838	Hydrocarbons
+6846	Hydrocarbons, Halogenated
+6221	Halothane
+6843	Hydrocarbons, Chlorinated
+2251	Carbon Tetrachloride
+10636	Phenols
+13450	Sulfones
+1581	Benzothiadiazines
+2740	Chlorothiazide
+6852	Hydrochlorothiazide
+49971	Thiazides
+470	Alkaloids
+44182	Benzylisoquinolines
+4876	Ergot Alkaloids
+4873	Ergolines
+8237	Lysergic Acid
+8238	Lysergic Acid Diethylamide
+11741	Pyrimidine Nucleosides
+14529	Uridine
+3857	Deoxyuridine
+7065	Idoxuridine
+10424	Pentobarbital
+11759	Pyrrolidines
+10425	Pentolinium Tartrate
+6574	Heterocyclic Compounds, 2-Ring
+7546	Isoquinolines
+44005	Tetrahydroisoquinolines
+6576	Heterocyclic Compounds with 4 or More Rings
+11083	Polycyclic Compounds
+13256	Steroids
+46911	Macromolecular Substances
+11108	Polymers
+10969	Plastics
+36361	Peptide Hormones
+10187	Pancreatic Hormones
+11384	Proinsulin
+7328	Insulin
+9705	Nucleosides
+602	Amino Acids, Peptides, and Proteins
+10455	Peptides
+11506	Proteins
+4044	Dietary Proteins
+3853	Deoxyribonucleosides
+28321	Plant Preparations
+13662	Tea
+1685	Biological Factors
+941	Antigens
+954	Antigens, Surface
+1789	Blood Group Antigens
+7519	Isoantigens
+1697	Biomedical and Dental Materials
+4364	Pharmaceutical Preparations
+10919	Placebos
+777	Anesthetics
+14149	Tranquilizing Agents
+45283	Natriuretic Agents
+4232	Diuretics
+12102	Reproductive Control Agents
+3270	Contraceptive Agents
+3271	Contraceptive Agents, Female
+3276	Contraceptives, Oral
+890	Anti-Infective Agents
+900	Anti-Bacterial Agents
+995	Antitubercular Agents
+998	Antiviral Agents
+2317	Cardiovascular Agents
+959	Antihypertensive Agents
+14665	Vasodilator Agents
+11619	Psychotropic Drugs
+6401	Hematologic Agents
+925	Anticoagulants
+3358	Cosmetics
+3937	Diagnosis, Differential
+8853	Microscopy
+792	Angiography
+2933	Cineradiography
+8327	Mammography
+13902	Radiography, Thoracic
+8400	Mass Chest X-Ray
+14567	Urography
+3935	Diagnostic Techniques, Cardiovascular
+1795	Blood Pressure Determination
+6334	Heart Function Tests
+4562	Electrocardiography
+14672	Vectorcardiography
+6326	Heart Auscultation
+14636	Valsalva Maneuver
+3938	Diagnostic Techniques, Digestive System
+16145	Endoscopy, Digestive System
+16099	Endoscopy, Gastrointestinal
+3113	Colonoscopy
+12812	Sigmoidoscopy
+5773	Gastroscopy
+11351	Proctoscopy
+3943	Diagnostic Techniques, Neurological
+4569	Electroencephalography
+9460	Neurologic Examination
+3944	Diagnostic Techniques, Obstetrical and Gynecological
+3127	Colposcopy
+3941	Diagnostic Techniques, Ophthalmological
+9887	Ophthalmoscopy
+14787	Vision Tests
+12029	Refraction, Ocular
+3948	Diagnostic Techniques, Respiratory System
+7828	Laryngoscopy
+12129	Respiratory Function Tests
+1784	Blood Gas Analysis
+13147	Spirometry
+3949	Diagnostic Techniques, Surgical
+4724	Endoscopy
+3950	Diagnostic Techniques, Urological
+4185	Disability Evaluation
+4568	Electrodiagnosis
+8403	Mass Screening
+8487	Medical History Taking
+1837	Body Weights and Measures
+49628	Body Size
+3942	Laboratory Techniques and Procedures
+19963	Clinical Chemistry Tests
+1774	Blood Chemical Analysis
+3581	Cytodiagnosis
+13048	Specimen Handling
+4210	Dissection
+16233	Immunotherapy, Active
+14611	Vaccination
+8519	Medicine, Traditional
+8515	Medicine, Ayurvedic
+8518	Medicine, East Asian Traditional
+26441	Mind-Body Therapies
+6990	Hypnosis
+9324	Naturopathy
+8517	Phytotherapy
+26421	Sensory Art Therapies
+11577	Psychodrama
+4358	Drug Therapy
+4333	Drug Administration Routes
+7267	Injections
+7274	Injections, Intraperitoneal
+11307	Drug Prescriptions
+4599	Electric Stimulation Therapy
+12151	Resuscitation
+6336	Heart Massage
+12121	Respiration, Artificial
+44623	Nutrition Therapy
+4035	Diet Therapy
+3927	Diabetic Diet
+19637	Orthopedic Procedures
+9988	Orthoptics
+6760	Hospitalization
+6701	Home Nursing
+19990	Perioperative Care
+11182	Postoperative Care
+11295	Prenatal Care
+11882	Radiotherapy, High-Energy
+12049	Rehabilitation of Speech and Language Disorders
+13070	Speech Therapy
+14834	Voice Training
+12050	Rehabilitation, Vocational
+12099	Reproductive Techniques
+3267	Contraception
+12138	Respiratory Therapy
+11175	Positive-Pressure Respiration
+765	Anesthesia, Conduction
+772	Anesthesia, Local
+9407	Nerve Block
+1340	Autonomic Nerve Block
+768	Anesthesia, General
+773	Anesthesia, Obstetrical
+7023	Hypotension, Controlled
+55011	Ablation Techniques
+3452	Cryosurgery
+13504	Cardiovascular Surgical Procedures
+6348	Cardiac Surgical Procedures
+14656	Vascular Surgical Procedures
+13505	Digestive System Surgical Procedures
+13507	Endocrine Surgical Procedures
+315	Adrenalectomy
+13513	Obstetric Surgical Procedures
+28	Abortion, Induced
+29	Abortion, Legal
+13508	Ophthalmologic Surgical Procedures
+54140	Refractive Surgical Procedures
+2387	Cataract Extraction
+16039	Corneal Transplantation
+671	Amputation
+14143	Traction
+13517	Otorhinolaryngologic Surgical Procedures
+14140	Tracheotomy
+19060	Surgical Procedures, Minimally Invasive
+19616	Thoracic Surgical Procedures
+14180	Transplantation
+16378	Tissue Transplantation
+13519	Urogenital Surgical Procedures
+13509	Gynecologic Surgical Procedures
+13520	Urologic Surgical Procedures
+13521	Urologic Surgical Procedures, Male
+11468	Prostatectomy
+2623	Chemistry, Analytical
+6306	Health Surveys
+9749	Nutrition Surveys
+15596	Nutrition Assessment
+14798	Vital Statistics
+9017	Morbidity
+9026	Mortality
+7226	Infant Mortality
+8428	Maternal Mortality
+1699	Biometry
+5163	Factor Analysis, Statistical
+7440	Intubation
+7442	Intubation, Intratracheal
+8365	Manometry
+8962	Models, Theoretical
+8954	Models, Biological
+8956	Models, Chemical
+8960	Models, Psychological
+4597	Electroshock
+11874	Radiometry
+12212	Rheology
+9970	Orthodontics
+11313	Preventive Dentistry
+5457	Fluoridation
+11476	Prosthodontics
+13515	Surgery, Oral
+4865	Equipment and Supplies, Hospital
+55096	Optical Devices
+7909	Lenses
+3261	Contact Lenses
+19736	Prostheses and Implants
+1186	Artificial Limbs
+12656	Self-Help Devices
+1187	Artificial Organs
+10138	Pacemaker, Artificial
+13525	Surgical Instruments
+12122	Ventilators, Mechanical
+223	Adaptation, Psychological
+9949	Orientation
+1290	Attitude
+1291	Attitude of Health Personnel
+1294	Attitude to Health
+1526	Behavioral Symptoms
+3863	Depression
+16728	Self-Injurious Behavior
+13405	Suicide
+14705	Verbal Behavior
+6184	Habits
+12907	Smoking
+3075	Coitus
+19529	Sexuality
+6716	Homosexuality
+12919	Social Behavior
+4644	Emotions
+339	Affect
+1007	Anxiety
+5639	Frustration
+6803	Human Development
+2657	Child Development
+9042	Motivation
+124	Achievement
+1318	Authoritarianism
+2605	Character
+3405	Creativeness
+7360	Intelligence
+7857	Leadership
+10553	Personality Development
+12649	Self Concept
+1722	Birth Order
+5195	Family Relations
+10287	Parent-Child Relations
+9034	Mother-Child Relations
+6126	Group Processes
+10379	Peer Group
+12380	Role
+7398	Interpersonal Relations
+7400	Interprofessional Relations
+11369	Professional-Patient Relations
+9723	Nurse-Patient Relations
+10817	Physician-Patient Relations
+9014	Morals
+11287	Prejudice
+12945	Social Values
+3071	Cognition
+7092	Imagination
+4325	Dreams
+6613	Higher Nervous Activity
+3463	Cues
+5793	Generalization (Psychology)
+8568	Memory
+11340	Problem Solving
+12054	Reinforcement (Psychology)
+14163	Transfer (Psychology)
+10465	Perception
+1828	Body Image
+12683	Sensory Deprivation
+14796	Visual Perception
+13850	Thinking
+3657	Decision Making
+2755	Choice Behavior
+2321	Career Choice
+7600	Judgment
+3376	Counseling
+10327	Pastoral Care
+6804	Human Engineering
+3626	Data Display
+1076	Aptitude
+2660	Child Guidance
+13332	Student Dropouts
+4526	Efficiency
+11597	Psychomotor Performance
+9048	Motor Skills
+13649	Taste
+12890	Sleep
+12069	Religion and Psychology
+2653	Child Behavior Disorders
+2659	Child Development Disorders, Pervasive
+1321	Autistic Disorder
+19964	Mood Disorders
+341	Affective Disorders, Psychotic
+1714	Bipolar Disorder
+9497	Neurotic Disorders
+10554	Personality Disorders
+987	Antisocial Personality Disorder
+19967	Schizophrenia and Disorders with Psychotic Features
+11618	Psychotic Disorders
+12559	Schizophrenia
+13001	Somatoform Disorders
+6998	Hypochondriasis
+296	Adolescent Psychiatry
+1689	Biological Psychiatry
+2665	Child Psychiatry
+5555	Forensic Psychiatry
+8890	Military Psychiatry
+11572	Psychoanalysis
+2666	Child Psychology
+5008	Ethnopsychology
+11586	Psychology, Clinical
+11599	Psychopathology
+11600	Psychopharmacology
+44347	Sexology
+12736	Sex Education
+8605	Mental Health Services
+3156	Community Mental Health Services
+12949	Social Work, Psychiatric
+13000	Psychiatric Somatic Therapies
+3295	Convulsive Therapy
+4565	Electroconvulsive Therapy
+11573	Psychoanalytic Interpretation
+11580	Psychological Techniques
+7406	Interview, Psychological
+7361	Intelligence Tests
+10555	Personality Inventory
+8950	MMPI
+11594	Psychometrics
+1521	Behavior Therapy
+13811	Psychotherapeutic Processes
+14167	Transference (Psychology)
+12960	Socioenvironmental Therapy
+8884	Milieu Therapy
+11615	Psychotherapy, Group
+12114	Residential Treatment
+55620	Optical Phenomena
+55621	Optical Processes
+55586	Physical Processes
+9678	Nuclear Energy
+13016	Sound
+9622	Noise
+13816	Thermodynamics
+13696	Temperature
+3080	Cold Temperature
+55438	Biochemical Processes
+50260	Carbohydrate Metabolism
+14882	Water-Electrolyte Balance
+55599	Chemical Processes
+8660	Metabolism
+55614	Genetic Phenomena
+39361	Genetic Processes
+5075	Evolution
+8827	Microbiological Phenomena
+4352	Drug Resistance, Microbial
+2664	Child Nutritional Physiology Phenomena
+2620	Pharmacological Phenomena
+4351	Drug Resistance
+55632	Pharmacological Processes
+4361	Drug Tolerance
+222	Adaptation, Physiological
+6128	Growth
+6706	Homeostasis
+9068	Movement
+8124	Locomotion
+12723	Sex
+12143	Respiratory Physiological Phenomena
+9142	Musculoskeletal Physiological Phenomena
+43702	Musculoskeletal Physiological Processes
+5133	Eye Movements
+55633	Immune System Phenomena
+55635	Immune System Processes
+14181	Transplantation Immunology
+7109	Immunity
+7111	Immunity, Cellular
+9799	Ocular Physiological Phenomena
+43723	Ocular Physiological Processes
+1686	Biological Phenomena
+55694	Biological Processes
+220	Adaptation, Biological
+55669	Ecological and Environmental Phenomena
+1272	Atmosphere
+14887	Weather
+2947	Cities
+2980	Climate
+3081	Cold Climate
+8685	Meteorological Concepts
+717	Anatomy, Comparative
+718	Anatomy, Regional
+4626	Embryology
+8967	Molecular Biology
+1901	Botany
+15509	Developmental Biology
+5826	Genetics, Medical
+11831	Radiation Genetics
+8829	Microbiology
+1432	Bacteriology
+11853	Radiobiology
+1703	Biophysics
+4594	Electrophysiology
+9488	Neurosciences
+9482	Neurophysiology
+14116	Toxicology
+4704	Endocrinology
+2624	Chemistry, Clinical
+2627	Chemistry, Physical
+5843	Geography
+162	Acoustics
+14465	Ultrasonics
+4581	Electronics
+4582	Electronics, Medical
+55095	Optics and Photonics
+13677	Technology, Medical
+1698	Biomedical Engineering
+13039	Specialties, Dental
+11636	Public Health Dentistry
+12498	Sanitary Engineering
+13366	Submarine Medicine
+486	Allergy and Immunology
+6405	Hematology
+10340	Pathology, Surgical
+9683	Nuclear Medicine
+3107	Colorectal Surgery
+13903	Thoracic Surgery
+13178	Sports Medicine
+11568	Psychiatric Nursing
+4046	Dietetics
+9907	Optometry
+11032	Podiatry
+3431	Cross-Cultural Comparison
+5007	Ethnology
+3415	Crime
+6708	Homicide
+14754	Violence
+17579	Domestic Violence
+2649	Child Abuse
+11157	Population Dynamics
+4641	Emigration and Immigration
+11155	Population Control
+6076	Government
+35082	Federal Government
+37041	United States Government Agencies
+14483	United States Dept. of Health and Human Services
+9316	National Institutes of Health (U.S.)
+9317	National Library of Medicine (U.S.)
+14493	United States Department of Veterans Affairs
+6077	Government Agencies
+7393	International Educational Exchange
+8493	Medical Missions, Official
+11056	Political Systems
+3148	Communism
+3709	Democracy
+12950	Socialism
+11057	Politics
+8913	Minority Groups
+12922	Social Change
+12923	Social Class
+12924	Social Conditions
+6806	Human Rights
+2961	Civil Rights
+18973	Intellectual Property
+10330	Patents as Topic
+8318	Malpractice
+11330	Prisons
+12939	Social Planning
+7604	Juvenile Delinquency
+11203	Poverty
+11822	Race Relations
+1694	Biological Warfare
+8429	Maternal Welfare
+12951	Socialization
+3479	Curriculum
+14829	Vocational Education
+4516	Education, Premedical
+4496	Education, Continuing
+4498	Education, Dental, Continuing
+4502	Education, Medical, Continuing
+4509	Education, Nursing, Continuing
+4513	Education, Pharmacy, Continuing
+4499	Education, Dental, Graduate
+4514	Education, Pharmacy, Graduate
+4504	Education, Medical, Undergraduate
+2982	Clinical Clerkship
+4508	Education, Nursing, Baccalaureate
+4510	Education, Nursing, Diploma Programs
+4521	Educational Measurement
+11361	Professional Competence
+2983	Clinical Competence
+7318	Inservice Training
+8611	Mentors
+12581	Schools, Public Health
+13335	Students, Dental
+13340	Students, Premedical
+11380	Programmed Instruction as Topic
+3194	Computer-Assisted Instruction
+7899	Leisure Activities
+11998	Recreation
+10988	Play and Playthings
+12063	Relaxation
+12146	Rest
+10809	Physical Fitness
+12179	Retirement
+1108	Architecture as Topic
+5160	Facility Design and Construction
+6749	Hospital Design and Construction
+3132	Commerce
+40541	Marketing
+329	Advertising as Topic
+4738	Engineering
+6795	Household Products
+1505	Beauty Culture
+1870	Book Industry
+19649	Food Industry
+5522	Food Services
+5521	Food Service, Hospital
+13633	Tanning
+8420	Manufactured Materials
+8891	Military Science
+1331	Automation
+1878	Books, Illustrated
+8961	Models, Structural
+11845	Radio
+13637	Tape Recording
+14186	Transportation
+1359	Aviation
+13026	Space Flight
+12767	Ships
+19602	Food and Beverages
+1628	Beverages
+434	Alcoholic Beverages
+1515	Beer
+5502	Food
+1363	Awards and Prizes
+32781	Codes of Ethics
+6625	Hippocratic Oath
+6663	Historiography
+49690	History, Ancient
+49692	History, Early Modern 1451-1600
+49668	History, 15th Century
+49669	History, 16th Century
+49691	History, Medieval
+49711	History, Modern 1601-
+49670	History, 17th Century
+49671	History, 18th Century
+49672	History, 19th Century
+49673	History, 20th Century
+5197	Famous Persons
+8513	Medicine in Literature
+14925	Wit and Humor as Topic
+9146	Music
+10686	Philosophy, Medical
+2835	Christianity
+2410	Catholicism
+2965	Classification
+3491	Cybernetics
+5246	Feedback
+14175	Translating
+1319	Authorship
+8037	Linguistics
+9626	Terminology as Topic
+1635	Bibliography of Medicine
+12013	Reference Books
+4181	Directories as Topic
+13782	Textbooks as Topic
+2377	Catalogs as Topic
+2381	Catalogs, Library
+4212	Dissertations, Academic as Topic
+3205	Computing Methodologies
+1330	Automatic Data Processing
+11676	Punched-Card Systems
+3199	Computer Systems
+3201	Computers
+3202	Computers, Analog
+3308	Copying Processes
+8490	Medical Informatics
+7992	Libraries, Hospital
+4282	Documentation
+43	Abstracting and Indexing as Topic
+2376	Cataloging
+8001	Library Technical Services
+7998	Library Science
+8000	Library Surveys
+8491	Medical Informatics Applications
+7256	Information Systems
+11643	Publishing
+13597	Systems Analysis
+9874	Operations Research
+293	Adolescent
+328	Adult
+368	Aged
+8875	Middle Aged
+2675	Child, Preschool
+7223	Infant
+7231	Infant, Newborn
+7234	Infant, Premature
+288	Administrative Personnel
+5551	Foreign Professional Personnel
+5550	Foreign Medical Graduates
+488	Allied Health Personnel
+8502	Medical Secretaries
+3334	Coroners and Medical Examiners
+3815	Dentists
+8503	Medical Staff
+8505	Medical Staff, Hospital
+10564	Personnel, Hospital
+10821	Physicians, Family
+12108	Research Personnel
+2673	Child, Hospitalized
+1741	African Americans
+44467	American Native Continental Ancestry Group
+7198	Indians, North American
+4930	Inuits
+44468	Oceanic Ancestry Group
+5006	Ethnic Groups
+7585	Jews
+12036	Refugees
+16387	Women's Health
+12424	Rural Population
+7182	Income
+8489	Medical Indigency
+9790	Occupations
+6784	Hospitals, Teaching
+554	Ambulatory Care Facilities
+10044	Outpatient Clinics, Hospital
+18070	Biological Specimen Banks
+1771	Blood Banks
+14015	Tissue Banks
+6748	Hospital Departments
+3796	Dental Service, Hospital
+4636	Emergency Service, Hospital
+9738	Nursing Service, Hospital
+10557	Personnel Administration, Hospital
+10607	Pharmacy Service, Hospital
+11567	Psychiatric Department, Hospital
+7362	Intensive Care Units
+6769	Hospitals, General
+6779	Hospitals, Public
+6768	Hospitals, Federal
+6787	Hospitals, Veterans
+7753	Laboratories
+10594	Pharmacies
+12112	Residential Facilities
+6707	Homes for the Aged
+9735	Nursing Homes
+6280	Health Manpower
+2654	Child Care
+7224	Infant Care
+2662	Child Health Services
+5193	Family Planning Services
+6699	Home Care Services
+8427	Maternal Health Services
+3954	Diagnostic Services
+12572	School Health Services
+3752	Dental Health Services
+4045	Dietary Services
+4632	Emergency Medical Services
+9739	Nursing Services
+10548	Personal Health Services
+10593	Pharmaceutical Services
+55656	Prescriptions
+11322	Primary Prevention
+34121	Reproductive Health Services
+13333	Student Health Services
+3365	Costs and Cost Analysis
+4469	Economics, Hospital
+5249	Fees and Charges
+12109	Research Support as Topic
+14146	Training Support
+5257	Fellowships and Scholarships
+5380	Financing, Government
+11632	Public Assistance
+8483	Medical Assistance
+6278	Medicare
+12943	Social Security
+7350	Insurance, Hospitalization
+7351	Insurance, Liability
+5382	Financing, Personal
+6295	Health Resources
+12040	Regional Health Planning
+6275	Health Facility Planning
+6752	Hospital Planning
+12041	Regional Medical Programs
+7750	Labor Unions
+14837	Voluntary Health Agencies
+12958	Societies, Scientific
+68	Accreditation
+2568	Certification
+8009	Licensure, Pharmacy
+7882	Legislation, Hospital
+13222	State Medicine
+4608	Eligibility Determination
+6075	Governing Board
+10559	Personnel Management
+6123	Group Practice
+7325	Institutional Practice
+9817	Office Management
+20399	Practice Management
+11216	Practice Management, Medical
+11331	Private Practice
+11367	Professional Staff Committees
+12017	Referral and Consultation
+11635	Public Health Administration
+11641	Public Relations
+10346	Patient Care Management
+3191	Comprehensive Health Care
+10347	Patient Care Planning
+3695	Delivery of Health Care
+17664	Uncompensated Care
+10348	Patient Care Team
+54869	Clinical Audit
+8485	Medical Audit
+4736	Energy-Generating Resources
+63	Accidents, Traffic
+4787	Environmental Pollution
+17053	Infection Control
+11790	Quarantine
+13242	Sterilization
+11870	Radiologic Health
+11830	Radiation Effects
+11835	Radiation Protection
+11633	Public Facilities
+6294	Health Resorts
+14881	Water Supply
+349	Africa
+352	Africa, Northern
+4534	Egypt
+17954	Africa South of the Sahara
+350	Africa, Central
+3223	Congo
+351	Africa, Eastern
+5002	Ethiopia
+7630	Kenya
+13636	Tanzania
+14454	Uganda
+353	Africa, Southern
+13019	South Africa
+354	Africa, Western
+7988	Liberia
+9549	Nigeria
+17691	Caribbean Region
+14900	West Indies
+3462	Cuba
+11647	Puerto Rico
+2489	Central America
+2170	Canada
+8800	Mexico
+407	Alabama
+5845	Georgia
+7629	Kentucky
+8396	Maryland
+9518	New York
+9657	North Carolina
+9820	Ohio
+13714	Tennessee
+14768	Virginia
+14903	West Virginia
+7087	Illinois
+7196	Indiana
+8824	Michigan
+8910	Minnesota
+14922	Wisconsin
+3691	Delaware
+4219	District of Columbia
+9515	New Jersey
+15146	Midwestern United States
+7484	Iowa
+7615	Kansas
+8923	Missouri
+9329	Nebraska
+9825	Oklahoma
+13023	South Dakota
+9511	New England
+3237	Connecticut
+8281	Maine
+8404	Massachusetts
+15205	Northwestern United States
+7061	Idaho
+9009	Montana
+9922	Oregon
+14959	Wyoming
+19601	Pacific States
+2140	California
+15144	Southeastern United States
+1131	Arkansas
+5431	Florida
+8145	Louisiana
+15206	Southwestern United States
+1130	Arizona
+3120	Colorado
+9505	Nevada
+13781	Texas
+13020	South America
+1118	Argentina
+1938	Brazil
+2677	Chile
+3105	Colombia
+10568	Peru
+13532	Suriname
+14583	Uruguay
+14687	Venezuela
+1208	Asia
+1209	Asia, Central
+14610	Uzbekistan
+1210	Asia, Southeastern
+7214	Indonesia
+8296	Malaysia
+10679	Philippines
+13785	Thailand
+14744	Vietnam
+1211	Asia, Western
+7194	India
+8877	Middle East
+7492	Iran
+7557	Israel
+10154	Pakistan
+13188	Sri Lanka
+5202	Far East
+2681	China
+7564	Japan
+7723	Korea
+1315	Australia
+1317	Austria
+1530	Belgium
+5061	Europe, Eastern
+1454	Baltic States
+8097	Lithuania
+2031	Bulgaria
+2094	Byelarus
+6814	Hungary
+8966	Moldova
+11044	Poland
+12383	Romania
+14455	Ukraine
+15022	Yugoslavia
+5387	Finland
+5602	France
+5859	Germany, East
+5860	Germany, West
+4739	England
+9660	Northern Ireland
+12606	Scotland
+14852	Wales
+7494	Ireland
+7558	Italy
+8189	Luxembourg
+9426	Netherlands
+11174	Portugal
+3718	Denmark
+13548	Sweden
+13030	Spain
+13557	Switzerland
+18436	Ancient Lands
+1083	Arabia
+17517	Commonwealth of Independent States
+3604	Czechoslovakia
+14586	USSR
+44349	Oceania
+44362	Australasia
+9520	New Zealand
+10139	Pacific Islands
+842	Ankle
+34941	Upper Extremity
+6225	Hand
+5385	Fingers
+14953	Wrist
+5145	Face
+9055	Mouth
+9666	Nose
+10388	Pelvis
+2356	Cartilage
+51445	Fibrocartilage
+7403	Intervertebral Disk
+7568	Jaw
+13131	Spine
+8159	Lumbar Vertebrae
+7596	Joints
+6621	Hip Joint
+13710	Tendons
+10256	Paranasal Sinuses
+3331	Coronary Vessels
+14680	Veins
+9475	Neurons, Afferent
+11984	Sensory Receptor Cells
+8465	Mechanoreceptors
+9470	Muscle Spindles
+17933	Peripheral Nervous System
+4432	Ear, Middle
+4429	Ear Ossicles
+869	Anterior Eye Segment
+7908	Lens, Crystalline
+12160	Retina
+4625	Embryo, Nonmammalian
+2642	Chick Embryo
+10159	Palate
+7107	Immune System
+8208	Lymphatic System
+1181	Arthropods
+7313	Insects
+4175	Diptera
+9033	Culicidae
+11527	Protozoa
+16820	Sarcomastigophora
+8412	Mastigophora
+16826	Zoomastigophora
+16830	Kinetoplastida
+14351	Trypanosomatina
+7891	Leishmania
+14345	Trypanosoma
+1419	Bacteria
+6094	Gram-Positive Bacteria
+6095	Gram-Positive Cocci
+13289	Streptococcaceae
+13291	Streptococcus
+196	Actinomycosis
+8061	Whipple Disease
+14382	Tuberculosis, Cutaneous
+3015	Clostridium Infections
+5738	Gas Gangrene
+13742	Tetanus
+17192	Skin Diseases, Bacterial
+12874	Skin Diseases, Infectious
+10304	Paronychia
+14552	Urinary Tract Infections
+4266	DNA Virus Infections
+11213	Poxviridae Infections
+12899	Smallpox
+3110	Colonic Neoplasms
+8113	Liver Neoplasms
+6258	Head and Neck Neoplasms
+12878	Skin Neoplasms
+2972	Cleft Palate
+1660	Biliary Tract Diseases
+2769	Cholelithiasis
+5705	Gallbladder Diseases
+2764	Cholecystitis
+5759	Gastroenteritis
+15212	Inflammatory Bowel Diseases
+3424	Crohn Disease
+3108	Colonic Diseases
+8286	Malabsorption Syndromes
+8107	Liver Diseases
+9056	Mouth Abnormalities
+10608	Pharyngeal Diseases
+10612	Pharyngitis
+17563	Lung Diseases, Interstitial
+11009	Pneumoconiosis
+55370	Lung Injury
+12120	Respiration Disorders
+12131	Respiratory Insufficiency
+6312	Hearing Loss, Bilateral
+10031	Otitis
+10302	Parkinson Disease, Secondary
+1930	Brain Injuries
+7859	Learning Disorders
+9437	Neuralgia
+12585	Sciatica
+10264	Paraplegia
+11782	Quadriplegia
+1766	Blindness
+3117	Color Vision Defects
+1750	Urinary Bladder, Neurogenic
+10523	Peripheral Nervous System Diseases
+20422	Mononeuropathies
+20426	Sciatic Neuropathy
+12893	Sleep Disorders
+20920	Dyssomnias
+12892	Sleep Deprivation
+20196	Trauma, Nervous System
+12735	Sexual Dysfunction, Physiological
+51437	Renal Insufficiency
+17095	Kidney Failure
+7675	Kidney Failure, Acute
+51480	Renal Insufficiency, Acute
+1745	Urinary Bladder Diseases
+6330	Heart Defects, Congenital
+6327	Heart Block
+1157	Arterial Occlusive Diseases
+1161	Arteriosclerosis
+20141	Hemostatic Disorders
+12614	Scurvy
+14648	Varicose Veins
+740	Anemia
+743	Anemia, Hemolytic
+745	Anemia, Hemolytic, Congenital
+755	Anemia, Sickle Cell
+747	Anemia, Hypochromic
+6453	Hemoglobinopathies
+6474	Hemorrhagic Disorders
+9260	Nail Diseases
+52439	Lipid Metabolism Disorders
+50171	Dyslipidemias
+6949	Hyperlipidemias
+1361	Avitaminosis
+1206	Ascorbic Acid Deficiency
+307	Adrenal Gland Diseases
+309	Adrenal Insufficiency
+224	Addison Disease
+13959	Thyroid Diseases
+7153	Immunologic Deficiency Syndromes
+1733	Bites and Stings
+50723	Fractures, Bone
+7869	Leg Injuries
+7718	Knee Injuries
+19838	Neck Injuries
+208	Acute Disease
+2388	Catastrophic Illness
+16638	Critical Illness
+6932	Hyperbilirubinemia
+7565	Jaundice
+1832	Body Temperature Changes
+5334	Fever
+5335	Fever of Unknown Origin
+5222	Mental Fatigue
+2255	Carbonic Acid
+468	Alkalies
+2254	Carbonates
+7477	Ions
+838	Anions
+4602	Elements
+8673	Metals, Alkaline Earth
+8274	Magnesium
+19565	Metals, Light
+9589	Nitrogen Oxides
+9609	Nitrous Oxide
+8670	Metals
+17672	Nitrogen Compounds
+147	Acids, Heterocyclic
+9539	Nicotinic Acids
+14970	Xanthines
+14527	Uric Acid
+11725	Pyridines
+11687	Purines
+11688	Purinones
+2297	Cardanolides
+2298	Cardenolides
+2301	Cardiac Glycosides
+4071	Digitalis Glycosides
+11278	Pregnanes
+11245	Pregnadienes
+11246	Pregnadienetriols
+3907	Dexamethasone
+13259	Steroids, Fluorinated
+5938	Glucocorticoids
+6062	Gonadotropins
+6063	Chorionic Gonadotropin
+10926	Placental Hormones
+2241	Carbohydrates
+6027	Glycosides
+617	Aminoglycosides
+7612	Kanamycin
+583	Amikacin
+9005	Monosaccharides
+6601	Hexoses
+5947	Glucose
+1786	Blood Glucose
+596	Amino Acids
+11257	Pregnancy Proteins
+14765	Viral Vaccines
+12900	Smallpox Vaccine
+8419	Materia Medica
+20011	Protective Agents
+931	Antidotes
+3278	Contraceptives, Oral, Hormonal
+970	Antineoplastic Agents
+3879	Dermatologic Agents
+2619	Chemical Warfare Agents
+3936	Diagnosis, Computer-Assisted
+3951	Diagnostic Errors
+8854	Microscopy, Electron
+9485	Neuroradiography
+14056	Tomography, X-Ray
+11877	Radionuclide Imaging
+14054	Tomography
+14463	Ultrasonography
+4452	Echocardiography
+10701	Phonocardiography
+6328	Heart Catheterization
+11674	Pulse
+13129	Spinal Puncture
+14065	Tonometry, Ocular
+3939	Diagnostic Techniques, Otological
+6320	Hearing Tests
+1299	Audiometry
+3947	Diagnostic Techniques, Radioisotope
+1999	Bronchoscopy
+1706	Biopsy
+10535	Laparoscopy
+14938	Work Capacity Evaluation
+4576	Electromyography
+9213	Myography
+11677	Punctures
+2404	Catheterization
+15670	Acupuncture Therapy
+6694	Holistic Health
+8514	Medicine, Arabic
+8516	Medicine, Chinese Traditional
+1326	Autogenic Training
+26201	Musculoskeletal Manipulations
+27681	Eclecticism, Historical
+9147	Music Therapy
+12381	Role Playing
+7278	Injections, Spinal
+4554	Electric Countershock
+359	Aftercare
+3422	Critical Care
+10343	Patient Admission
+7326	Institutionalization
+8020	Life Support Care
+8134	Long-Term Care
+13727	Terminal Care
+5081	Exercise Therapy
+8349	Manipulation, Orthopedic
+17582	Renal Replacement Therapy
+6435	Renal Dialysis
+10530	Peritoneal Dialysis
+16030	Kidney Transplantation
+13245	Sterilization, Reproductive
+16060	Sorption Detoxification
+767	Anesthesia, Epidural
+775	Anesthesia, Spinal
+769	Anesthesia, Inhalation
+714	Anastomosis, Surgical
+11170	Portasystemic Shunt, Surgical
+11167	Portacaval Shunt, Surgical
+7813	Laparotomy
+8866	Microsurgery
+32	Abortion, Therapeutic
+13511	Surgical Procedures, Minor
+13510	Pulmonary Surgical Procedures
+16377	Organ Transplantation
+7044	Hysterectomy
+13246	Sterilization, Tubal
+14659	Vasectomy
+5374	Filtration
+7407	Interviews as Topic
+11795	Questionnaires
+6753	Hospital Records
+8501	Medical Records, Problem-Oriented
+12042	Registries
+18873	Pregnancy Rate
+1723	Birth Rate
+11336	Probability
+16020	Epidemiologic Study Characteristics as Topic
+16021	Epidemiologic Studies
+15331	Cohort Studies
+8137	Longitudinal Studies
+11446	Prospective Studies
+5069	Evaluation Studies as Topic
+4341	Drug Evaluation
+6805	Human Experimentation
+12107	Research Design
+8846	Micromanipulation
+14894	Weights and Measures
+8792	Metric System
+3729	Dental Care
+3945	Diagnosis, Oral
+4708	Endodontics
+10339	Pathology, Oral
+19719	Diagnostic Equipment
+19723	Endoscopes
+19721	Ophthalmoscopes
+7910	Lenses, Intraocular
+12682	Sensory Aids
+6310	Hearing Aids
+53831	Surgical Fixation Devices
+13537	Sutures
+1293	Attitude to Death
+342	Affective Symptoms
+13406	Suicide, Attempted
+13315	Stress, Psychological
+2652	Child Behavior
+3144	Communication Barriers
+30881	Disclosure
+14342	Truth Disclosure
+13060	Speech
+15438	Health Behavior
+10349	Patient Compliance
+16312	Treatment Refusal
+10549	Personal Satisfaction
+12059	Rejection (Psychology)
+12917	Social Adjustment
+12933	Social Identification
+12934	Social Isolation
+13239	Stereotyped Behavior
+3674	Defense Mechanisms
+7062	Identification (Psychology)
+12043	Regression (Psychology)
+786	Anger
+1601	Bereavement
+6117	Grief
+3220	Conflict (Psychology)
+6040	Goals
+4645	Empathy
+4532	Ego
+7063	Identity Crisis
+12647	Self Assessment (Psychology)
+6127	Group Structure
+10380	Peer Review
+24382	Professional Role
+10819	Physician's Role
+12803	Sick Role
+12681	Sensitivity Training Groups
+11368	Professional-Family Relations
+8019	Life Style
+3242	Conscience
+1364	Awareness
+1244	Association
+1245	Association Learning
+4954	Esthetics
+13647	Task Performance and Analysis
+13996	Time and Motion Studies
+7588	Job Satisfaction
+1143	Arousal
+1288	Attention
+19965	Delirium, Dementia, Amnestic, Cognitive Disorders
+3072	Cognition Disorders
+1010	Anxiety, Separation
+2658	Developmental Disabilities
+5010	Ethology
+3158	Community Psychiatry
+3219	Confidentiality
+5852	Geriatric Psychiatry
+9986	Orthopsychiatry
+297	Adolescent Psychology
+11587	Psychology, Comparative
+11589	Psychology, Experimental
+12962	Sociology, Medical
+4637	Emergency Services, Psychiatric
+11569	Psychiatric Status Rating Scales
+8609	Mental Status Schedule
+3379	Countertransference (Psychology)
+11616	Psychotherapy, Multiple
+13808	Therapeutic Community
+5196	Family Therapy
+8388	Marital Therapy
+55592	Biophysical Phenomena
+1696	Biomechanics
+4560	Electricity
+11840	Radiation, Nonionizing
+8027	Light
+3116	Color
+55595	Mechanical Phenomena
+13995	Time
+136	Acid-Base Equilibrium
+55606	Physicochemical Processes
+6863	Hydrogen-Ion Concentration
+55605	Physicochemical Phenomena
+12641	Selection (Genetics)
+7227	Infant Nutritional Physiological Phenomena
+1942	Breast Feeding
+52796	Nutrition Processes
+4063	Digestion
+4347	Drug Interactions
+5298	Fertility
+1790	Blood Physiological Phenomena
+45123	Blood Physiological Processes
+6487	Hemostasis
+1777	Blood Coagulation
+6347	Heart Sounds
+44703	Respiratory Physiological Processes
+12119	Respiration
+55688	Digestive System and Oral Physiological Phenomena
+4068	Digestive System Physiological Phenomena
+52799	Digestive System Processes
+12038	Regeneration
+14945	Wound Healing
+55641	Mathematical Concepts
+9445	Neuroanatomy
+5817	Genetic Counseling
+5828	Genetics, Population
+4783	Environmental Microbiology
+5516	Food Microbiology
+9172	Mycology
+5716	Game Theory
+5717	Games, Experimental
+5336	Fiber Optic Technology
+13598	Systems Theory
+5553	Forensic Dentistry
+5792	General Practice, Dental
+8885	Military Dentistry
+10377	Pediatric Dentistry
+3154	Community Medicine
+4635	Emergency Medicine
+8495	Medical Oncology
+12219	Rheumatology
+10338	Pathology, Clinical
+9359	Neonatology
+10500	Perinatology
+3152	Community Health Nursing
+5851	Geriatric Nursing
+9785	Occupational Health Nursing
+10371	Pediatric Nursing
+13527	Perioperative Nursing
+3466	Cultural Characteristics
+5495	Folklore
+885	Anthropology, Physical
+12742	Sex Offenses
+5544	Forecasting
+9315	National Institute of Mental Health (U.S.)
+14492	United States Public Health Service
+2487	Centers for Disease Control and Prevention (U.S.)
+14482	United States Substance Abuse and Mental Health Services Administration
+19049	Developed Countries
+5062	European Union
+3906	Developing Countries
+11788	Quality of Life
+3467	Cultural Deprivation
+2651	Child Advocacy
+18907	Privacy
+28701	Patient Rights
+7258	Informed Consent
+16223	Advance Directives
+16224	Living Wills
+5104	Expert Testimony
+3675	Defensive Medicine
+14918	Wills
+10344	Patient Advocacy
+11049	Social Control Policies
+11640	Public Policy
+12927	Social Control, Informal
+11639	Public Opinion
+12931	Social Environment
+12918	Social Alienation
+2960	Civil Disorders
+12305	Riots
+2608	Charities
+2656	Child Day Care Centers
+12066	Relief Work
+2322	Career Mobility
+12963	Sociometric Techniques
+3162	Competency-Based Education
+10353	Patient Education as Topic
+10806	Physical Education and Training
+12578	Schools, Nursery
+4518	Education, Professional, Retraining
+4511	Education, Nursing, Graduate
+7397	Internship, Nonmedical
+3099	College Admission Test
+12570	School Admission Criteria
+12655	Self-Evaluation Programs
+5181	Faculty, Nursing
+11231	Preceptorship
+1113	Area Health Education Centers
+12580	Schools, Pharmacy
+13338	Students, Nursing
+13177	Sports
+5101	Expeditions
+14937	Work
+5524	Food Technology
+5513	Food Inspection
+54041	Weapons
+54044	Weapons of Mass Destruction
+8953	Models, Anatomic
+8348	Manikins
+14743	Videotape Recording
+2325	Caricatures as Topic
+2359	Cartoons as Topic
+11173	Portraits as Topic
+1675	Bioethics
+4991	Ethics, Institutional
+6808	Humanism
+12941	Social Responsibility
+28681	Moral Obligations
+5053	Eugenics
+1045	Aphorisms and Proverbs as Topic
+1633	Bible
+8093	Literature, Modern
+11037	Poetry as Topic
+19369	Life
+8128	Logic
+13795	Thanatology
+7514	Islam
+7599	Judaism
+9275	Names
+4850	Eponyms
+14825	Vocabulary
+8370	Manuals as Topic
+6079	Government Publications as Topic
+10174	Pamphlets
+13689	Telephone
+8843	Microfilming
+14741	Video Recording
+1874	Book Selection
+5371	Filing
+4346	Drug Information Services
+7999	Library Services
+16247	Information Storage and Retrieval
+7995	Library Administration
+3658	Decision Making, Computer-Assisted
+8523	MEDLARS
+9862	Online Systems
+11327	Printing
+3253	Consultants
+3150	Community Health Aides
+4634	Emergency Medical Technicians
+9728	Nurses' Aides
+11566	Psychiatric Aides
+10823	Physician Assistants
+3797	Dental Staff
+3798	Dental Staff, Hospital
+9726	Nurses
+9722	Nurse Practitioners
+9740	Nursing Staff
+9741	Nursing Staff, Hospital
+6758	Hospital Volunteers
+10595	Pharmacists
+7297	Inpatients
+11329	Prisoners
+14838	Voluntary Workers
+12113	Residential Mobility
+5192	Family Health
+14943	World Health
+14505	Urban Population
+4522	Educational Status
+4651	Employment
+14478	Unemployment
+12456	Salaries and Fringe Benefits
+6785	Hospitals, University
+3151	Community Health Centers
+3155	Community Mental Health Centers
+6269	Health Facilities, Proprietary
+6777	Hospitals, Proprietary
+6272	Health Facility Environment
+10362	Patients' Rooms
+6276	Health Facility Size
+9775	Obstetrics and Gynecology Department, Hospital
+11872	Radiology Department, Hospital
+13503	Surgery Department, Hospital
+18578	Hospital-Physician Relations
+8504	Medical Staff Privileges
+6755	Hospital Shared Services
+3325	Coronary Care Units
+9725	Nurseries, Hospital
+6764	Hospitals, Community
+16304	Hospitals, Private
+6788	Hospitals, Voluntary
+6767	Hospitals, District
+6773	Hospitals, Municipal
+2173	Cancer Care Facilities
+6738	Hospices
+6776	Hospitals, Pediatric
+6786	Hospitals, Urban
+9724	Nurseries
+3256	Consumer Participation
+9786	Occupational Health Services
+33142	Genetic Services
+19300	Medical Errors
+3361	Cost Allocation
+3362	Cost-Benefit Analysis
+3363	Cost Control
+5102	Health Expenditures
+4468	Economics, Dental
+5250	Fees, Dental
+5251	Fees, Medical
+7346	Insurance, Accident
+7349	Insurance, Health, Reimbursement
+8329	Managed Care Programs
+6279	Health Maintenance Organizations
+17061	Prepaid Health Plans
+12051	Reimbursement Mechanisms
+11445	Prospective Payment System
+3953	Diagnosis-Related Groups
+6302	Health Services Research
+6301	Health Services Needs and Demand
+8507	Medically Underserved Area
+3255	Consumer Organizations
+10175	Pan American Health Organization
+3098	Collective Bargaining
+570	American Cancer Society
+12957	Societies, Pharmaceutical
+13044	Specialty Boards
+8005	Licensure, Dental
+8008	Licensure, Nursing
+5161	Facility Regulation and Control
+7879	Legislation, Dental
+1071	Appointments and Schedules
+5245	Fee Schedules
+9096	Multi-Institutional Systems
+9935	Organizational Affiliation
+4648	Employee Grievances
+4650	Employee Performance Appraisal
+10560	Personnel Selection
+10561	Personnel Staffing and Scheduling
+10605	Pharmacy Administration
+4363	Drug Utilization
+6124	Group Practice, Dental
+6792	House Calls
+5568	Forms and Records Control
+10606	Pharmacy and Therapeutics Committee
+16730	Program Development
+3159	Community-Institutional Relations
+3258	Consumer Satisfaction
+32722	Advance Care Planning
+11320	Primary Health Care
+3266	Continuity of Patient Care
+6297	Health Services Accessibility
+10043	Outcome and Process Assessment (Health Care)
+11366	Professional Review Organizations
+17408	Guidelines as Topic
+14600	Utilization Review
+10342	Patient Acceptance of Health Care
+15981	Epidemiologic Factors
+12737	Sex Factors
+12449	Safety
+5506	Food Contamination
+985	Antisepsis
+1940	Breast
+4550	Elbow
+12886	Skull
+5147	Facial Bones
+13100	Sphenoid Bone
+13701	Temporal Bone
+7719	Knee Joint
+11631	Pubic Symphysis
+1659	Biliary Tract
+9300	Nasal Septum
+14621	Vagina
+2339	Carotid Arteries
+7601	Jugular Veins
+13350	Subclavian Vein
+1341	Autonomic Nervous System
+17776	Autonomic Pathways
+14630	Vagus Nerve
+7823	Laryngeal Nerves
+12009	Recurrent Laryngeal Nerve
+10275	Parasympathetic Nervous System
+10525	Peripheral Nerves
+3391	Cranial Nerves
+4431	Ear, External
+14432	Tympanic Membrane
+14129	Trabecular Meshwork
+5654	Fundus Oculi
+3238	Connective Tissue
+921	Antibody-Producing Cells
+1402	B-Lymphocytes
+7962	Leukocytes
+7963	Leukocytes, Mononuclear
+8214	Lymphocytes
+13601	T-Lymphocytes
+12634	Bodily Secretions
+5750	Gastric Juice
+13183	Sputum
+13552	Swine
+40141	Staphylococcaceae
+13210	Staphylococcus
+13211	Staphylococcus aureus
+13296	Streptococcus pneumoniae
+18514	Plant Components
+35261	Plant Components, Aerial
+5638	Fruit
+11008	Pneumococcal Infections
+15817	Eye Infections
+3320	Corneal Ulcer
+11251	Pregnancy Complications, Infectious
+11645	Puerperal Infection
+18347	Hepadnaviridae Infections
+6509	Hepatitis B
+6566	Herpesviridae Infections
+3586	Cytomegalovirus Infections
+6525	Hepatitis, Viral, Human
+18701	Mononegavirales Infections
+18184	Paramyxoviridae Infections
+18185	Morbillivirus Infections
+8457	Measles
+12192	Retroviridae Infections
+16180	Lentivirus Infections
+15658	HIV Infections
+163	Acquired Immunodeficiency Syndrome
+6679	HIV Seropositivity
+15229	Sexually Transmitted Diseases, Viral
+12897	Slow Virus Diseases
+6373	Helminthiasis
+9349	Nematode Infections
+17190	Secernentea Infections
+17205	Spirurida Infections
+5368	Filariasis
+8118	Loiasis
+9373	Neoplasms, Germ Cell and Embryonal
+17599	Neuroectodermal Tumors
+18358	Neuroendocrine Tumors
+8545	Melanoma
+9380	Neoplasms, Nerve Tissue
+18326	Nevi and Melanomas
+4701	Endocrine Gland Neoplasms
+13964	Thyroid Neoplasms
+10039	Otorhinolaryngologic Neoplasms
+7822	Laryngeal Neoplasms
+13899	Thoracic Neoplasms
+12142	Respiratory Tract Neoplasms
+1984	Bronchial Neoplasms
+8175	Lung Neoplasms
+1862	Bone Resorption
+17271	Craniomandibular Disorders
+13705	Temporomandibular Joint Disorders
+13706	Temporomandibular Joint Dysfunction Syndrome
+10003	Osteoarthritis
+9209	Myofascial Pain Syndromes
+1064	Appendicitis
+2429	Cecal Diseases
+6505	Hepatitis
+7818	Laryngeal Diseases
+14826	Vocal Cord Paralysis
+14832	Voice Disorders
+12128	Respiratory Distress Syndrome, Adult
+7759	Labyrinth Diseases
+15837	Vestibular Diseases
+14717	Vertigo
+10033	Otitis Media
+10034	Otitis Media with Effusion
+10040	Otosclerosis
+1928	Brain Diseases, Metabolic
+14899	Wernicke Encephalopathy
+2340	Carotid Artery Diseases
+3704	Dementia
+544	Alzheimer Disease
+13226	Status Epilepticus
+20820	Dyskinesias
+4409	Dyskinesia, Drug-Induced
+13119	Spinal Cord Injuries
+20421	Vagus Nerve Diseases
+19636	Neurodegenerative Diseases
+24801	Tauopathies
+6261	Headache
+10148	Pain, Intractable
+15354	Vision, Low
+20258	Neurotoxicity Syndromes
+3316	Corneal Diseases
+7634	Keratitis
+5902	Glaucoma, Open-Angle
+14555	Urination Disorders
+14549	Urinary Incontinence
+52878	Urolithiasis
+14545	Urinary Calculi
+5315	Fetal Diseases
+5317	Fetal Growth Retardation
+7752	Obstetric Labor, Premature
+787	Angina Pectoris
+3324	Coronary Artery Disease
+20246	Venous Thrombosis
+13924	Thrombophlebitis
+16491	Peripheral Vascular Diseases
+10689	Phlebitis
+14657	Vasculitis
+7642	Keratosis
+2781	Cholesteatoma
+3924	Diabetes Mellitus, Type 2
+6937	Hypercholesterolemia
+14804	Vitamin B Deficiency
+13832	Thiamine Deficiency
+6042	Goiter
+4362	Drug Toxicity
+9293	Opioid-Related Disorders
+14029	Tobacco Use Disorder
+1265	Athletic Injuries
+19567	Back Injuries
+13124	Spinal Injuries
+4556	Electric Injuries
+6230	Hand Injuries
+9104	Multiple Trauma
+4195	Disease Models, Animal
+2137	Calculi
+11127	Polyps
+7417	Intestinal Polyps
+3111	Colonic Polyps
+2869	Chromosome Aberrations
+6130	Growth Disorders
+10149	Pain, Postoperative
+15746	Abdominal Pain
+6	Abdomen, Acute
+2637	Chest Pain
+20924	Urological Manifestations
+6858	Hydrofluoric Acid
+5459	Fluorides
+17611	Fluorine Compounds
+577	Amides
+7769	Lactams
+47090	beta-Lactams
+2511	Cephalosporins
+10406	Penicillins
+10400	Penicillin G
+667	Ampicillin
+658	Amoxicillin
+53961	Azabicyclo Compounds
+1952	Bridged Compounds
+1643	Bicyclo Compounds
+19086	Bicyclo Compounds, Heterocyclic
+13843	Thiazines
+13806	Theophylline
+7093	Imidazoles
+48289	Imidazolidines
+6827	Hydantoins
+10672	Phenytoin
+1552	Benzazepines
+1569	Benzodiazepines
+1570	Benzodiazepinones
+3975	Diazepam
+6572	Heterocyclic Compounds, Bridged-Ring
+5768	Gastrointestinal Hormones
+5755	Gastrins
+10418	Pentagastrin
+5839	Gentamicins
+14885	Waxes
+9842	Oligopeptides
+10936	Plant Extracts
+9892	Opium
+7252	Influenza Vaccines
+14761	Viral Hepatitis Vaccines
+14151	Anti-Anxiety Agents
+14150	Antipsychotic Agents
+9465	Neuromuscular Agents
+9466	Neuromuscular Blocking Agents
+893	Anti-Inflammatory Agents
+5765	Gastrointestinal Agents
+2400	Cathartics
+8855	Microscopy, Electron, Scanning
+4453	Echoencephalography
+17585	Ultrasonography, Doppler, Transcranial
+18608	Ultrasonography, Doppler
+5080	Exercise Test
+12018	Reflex
+10387	Pelvimetry
+11296	Prenatal Diagnosis
+14626	Vaginal Smears
+5425	Flicker Fusion
+1182	Arthroscopy
+3955	Diagnostic Tests, Routine
+8991	Monitoring, Physiologic
+886	Anthropometry
+10173	Palpation
+9780	Occult Blood
+1800	Blood Specimen Collection
+18962	Phlebotomy
+11379	Prognosis
+11256	Pregnancy Outcome
+1804	Blood Transfusion, Autologous
+2304	Cardiac Pacing, Artificial
+17130	Angioplasty
+800	Angioplasty, Balloon
+1451	Balloon Dilatation
+2405	Catheterization, Central Venous
+887	Anthroposophy
+1676	Biofeedback (Psychology)
+12064	Relaxation Therapy
+8405	Massage
+3357	Cosmetic Techniques
+46289	Body Modification, Non-Therapeutic
+2944	Circumcision, Male
+12225	Rhinoplasty
+4322	Drainage
+7263	Infusions, Parenteral
+4360	Drug Therapy, Computer-Assisted
+5440	Fluid Therapy
+8508	Medication Errors
+11292	Premedication
+12651	Self Medication
+14187	Transportation of Patients
+5248	Feeding Methods
+4750	Enteral Nutrition
+10288	Parenteral Nutrition
+53685	Laser Therapy
+18529	Nutritional Support
+7902	Length of Stay
+10351	Patient Discharge
+9551	Night Care
+10166	Palliative Care
+11181	Postnatal Care
+11300	Preoperative Care
+1815	Bloodletting
+11881	Radiotherapy, Computer-Assisted
+12648	Self Care
+13813	Therapy, Computer-Assisted
+766	Anesthesia, Dental
+6992	Hypnosis, Dental
+6991	Hypnosis, Anesthetic
+11229	Preanesthetic Medication
+556	Ambulatory Surgical Procedures
+4691	Endarterectomy
+3475	Curettage
+4107	Dilatation and Curettage
+14619	Vacuum Curettage
+1062	Appendectomy
+13396	Suction
+13965	Thyroidectomy
+36861	Delivery, Obstetric
+2585	Cesarean Section
+4841	Episiotomy
+18463	Filtering Surgery
+14130	Trabeculectomy
+10030	Ostomy
+8876	Middle Ear Ventilation
+13506	Otologic Surgical Procedures
+13201	Stapes Surgery
+19651	Reconstructive Surgical Procedures
+13536	Suture Techniques
+13243	Sterilization Reversal
+32761	Animal Experimentation
+23401	Animal Use Alternatives
+826	Animal Testing Alternatives
+13057	Spectrum Analysis
+9682	Magnetic Resonance Spectroscopy
+8828	Microbiological Techniques
+3661	Decision Support Techniques
+6305	Health Status Indicators
+3644	Death Certificates
+2986	Clinical Trials as Topic
+16552	Ergometry
+15397	Program Evaluation
+7507	Irrigation
+10533	Peritoneal Lavage
+18579	Patient Selection
+23421	Models, Animal
+8955	Models, Cardiovascular
+11834	Radiation Monitoring
+5373	Film Dosimetry
+7394	International System of Units
+12015	Reference Standards
+3730	Dental Care for Disabled
+1513	Beds
+9339	Needles
+6350	Heart Valve Prosthesis
+11482	Protective Devices
+11481	Protective Clothing
+9772	Obstetrical Forceps
+1292	Attitude to Computers
+7722	Health Knowledge, Attitudes, Practice
+294	Adolescent Behavior
+33183	Interdisciplinary Communication
+4327	Drinking Behavior
+428	Alcohol Drinking
+12309	Risk-Taking
+12746	Sexual Abstinence
+533	Altruism
+3163	Competitive Behavior
+3299	Cooperative Behavior
+28743	Professional Misconduct
+12928	Social Desirability
+12930	Social Dominance
+13240	Stereotyping
+5783	Gender Identity
+6240	Happiness
+6791	Hostility
+5508	Food Deprivation
+33182	Intention
+1242	Assertiveness
+7206	Individuality
+7207	Individuation
+35863	Moral Development
+11606	Psychosexual Development
+13694	Temperament
+4243	Divorce
+9679	Nuclear Family
+10290	Parents
+5220	Fathers
+9035	Mothers
+7389	Internal-External Control
+3812	Dentist-Patient Relations
+8016	Life Change Events
+9013	Morale
+3073	Cognitive Dissonance
+11939	Mental Recall
+12153	Retention (Psychology)
+12718	Set (Psychology)
+5556	Form Perception
+12938	Social Perception
+13028	Space Perception
+3210	Concept Formation
+5619	Freudian Theory
+9289	Narcissism
+9769	Object Attachment
+12073	Remedial Teaching
+41	Absenteeism
+4292	Dominance, Cerebral
+7839	Functional Laterality
+11930	Reaction Time
+14110	Touch
+2055	Burnout, Professional
+1008	Anxiety Disorders
+10698	Phobic Disorders
+40921	Stress Disorders, Traumatic
+3130	Combat Disorders
+13313	Stress Disorders, Post-Traumatic
+5162	Factitious Disorders
+9110	Munchausen Syndrome
+3866	Depressive Disorder
+1883	Borderline Personality Disorder
+19968	Sexual and Gender Disorders
+20018	Sexual Dysfunctions, Psychological
+1524	Behavioral Medicine
+11316	Preventive Psychiatry
+3134	Commitment of Mentally Ill
+11591	Psychology, Medical
+11598	Psychoneuroimmunology
+10552	Personality Assessment
+7807	Language Tests
+3419	Crisis Intervention
+11614	Psychotherapy, Brief
+11617	Psychotherapy, Rational-Emotive
+12565	Schizophrenic Psychology
+11846	Radio Waves
+8872	Microwaves
+10507	Periodicity
+12621	Seasons
+7700	Kinetics
+10599	Pharmacokinetics
+14644	Genetic Variation
+9154	Mutation
+2909	Chronobiology Phenomena
+55724	Electrophysiological Phenomena
+5071	Evoked Potentials
+5072	Evoked Potentials, Auditory
+4305	Dose-Response Relationship, Drug
+8597	Menstrual Cycle
+8598	Menstruation
+45125	Cardiovascular Physiological Processes
+16723	Bone Remodeling
+5082	Physical Exertion
+10807	Physical Endurance
+465	Algorithms
+3662	Decision Theory
+716	Anatomy, Artistic
+10597	Pharmacogenetics
+14773	Virology
+9446	Neurobiology
+10601	Pharmacology, Clinical
+6283	Health Physics
+1298	Audiology
+13066	Speech-Language Pathology
+5850	Geriatric Dentistry
+295	Adolescent Medicine
+9398	Nephrology
+15272	Pulmonary Medicine
+14686	Venereology
+14194	Traumatology
+9871	Operating Room Nursing
+13522	Surgery, Veterinary
+18594	Human Body
+10163	Paleontology
+10164	Paleopathology
+5607	Fraud
+2650	Child Abuse, Sexual
+13179	Spouse Abuse
+14104	Torture
+6304	Health Status
+9314	National Institute for Occupational Safety and Health (U.S.)
+28683	National Socialism
+6608	Hierarchy, Social
+827	Animal Welfare
+35661	Animal Care Committees
+14933	Women's Rights
+20458	Third-Party Consent
+33282	Parental Consent
+11363	Professional Impairment
+10815	Physician Impairment
+35846	Law Enforcement
+7880	Legislation, Drug
+4335	Drug and Narcotic Control
+16134	Organizational Policy
+6291	Health Policy
+12944	Social Support
+1497	Battered Child Syndrome
+11204	Poverty Areas
+13192	Staff Development
+12579	Schools, Nursing
+13339	Students, Pharmacy
+3200	Computer User Training
+54874	Athletic Performance
+38161	Snow Sports
+12865	Skiing
+14940	Work Schedule Tolerance
+383	Agriculture
+822	Animal Husbandry
+7374	Interior Design and Furnishings
+8389	Marketing of Health Services
+3020	Clothing
+3252	Construction Materials
+16249	Optical Storage Devices
+14742	Videodisc Recording
+401	Aircraft
+18986	Motor Vehicles
+552	Ambulances
+4741	Engraving and Engravings
+8512	Medicine in Art
+9717	Numismatics
+10678	Philately
+26688	Bioethical Issues
+26689	Ethical Analysis
+26724	Ethical Review
+28663	Ethical Theory
+26822	Ethicists
+17041	Ethics Committees
+28741	Ethics Committees, Clinical
+4990	Ethics, Dental
+4993	Ethics, Nursing
+4994	Ethics, Pharmacy
+846	Anniversaries and Special Events
+4616	Emblems and Insignia
+13561	Symbolism
+19365	Metaphor
+739	Anecdotes as Topic
+4324	Drama
+10680	Philology
+10685	Philosophy, Dental
+10687	Philosophy, Nursing
+3197	Computer Literacy
+4059	Diffusion of Innovation
+12660	Semantics
+12014	Reference Books, Medical
+9524	Newspapers
+3629	Modems
+1185	Artificial Intelligence
+5103	Expert Systems
+3196	Computer Graphics
+3198	Computer Simulation
+3195	Computer Communication Networks
+16287	Computer Peripherals
+3204	Computers, Mainframe
+8838	Microcomputers
+7091	Image Processing, Computer-Assisted
+12984	Software
+3628	Database Management Systems
+3697	Delphi Technique
+48088	Informatics
+7257	Information Theory
+16243	Library Collection Development
+6751	Hospital Information Systems
+8331	Management Information Systems
+555	Ambulatory Care Information Systems
+3660	Decision Support Systems, Management
+10562	Personnel Staffing and Scheduling Information Systems
+11873	Radiology Information Systems
+11338	Probability Theory
+7230	Infant, Low Birth Weight
+8571	Men
+6270	Health Facility Administrators
+6740	Hospital Administrators
+8486	Physician Executives
+3727	Dental Auxiliaries
+3756	Dental Hygienists
+8497	Medical Record Administrators
+10596	Pharmacists' Aides
+9721	Nurse Midwives
+2674	Child, Institutionalized
+10045	Outpatients
+44465	European Continental Ancestry Group
+6630	Hispanic Americans
+35842	Research Subjects
+19452	Terminally Ill
+14019	Tissue Donors
+1782	Blood Donors
+14171	Transients and Migrants
+14504	Urban Health
+10415	Pensions
+6264	Health Benefit Plans, Employee
+8430	Maternal-Child Health Centers
+13531	Surgicenters
+3749	Dental Facilities
+3740	Dental Clinics
+7754	Laboratories, Dental
+6742	Hospital Bed Capacity
+5377	Financial Management, Hospital
+6747	Hospital Communication Systems
+2604	Chaplaincy Service, Hospital
+4494	Education Department, Hospital
+14193	Trauma Centers
+7755	Laboratories, Hospital
+8500	Medical Records Department, Hospital
+10337	Pathology Department, Hospital
+10814	Physical Therapy Department, Hospital
+12139	Respiratory Therapy Department, Hospital
+14573	Urology Department, Hospital
+6772	Hospitals, Military
+6783	Hospitals, State
+6780	Hospitals, Rural
+6763	Hospitals, Chronic Disease
+6774	Hospitals, Osteopathic
+10824	Physicians' Offices
+11039	Poison Control Centers
+12047	Rehabilitation Centers
+12866	Skilled Nursing Facilities
+6293	Health Promotion
+10358	Patient Participation
+6299	Health Services for the Aged
+6303	Health Services, Indigenous
+6300	Health Services Misuse
+9927	Tissue and Organ Procurement
+4465	Economic Competition
+5252	Fees, Pharmaceutical
+11306	Prescription Fees
+11907	Rate Setting and Review
+5376	Financial Management
+2017	Budgets
+2202	Capital Financing
+3284	Contract Services
+5653	Fund Raising
+12308	Risk Management
+8484	Medicaid
+7343	Insurance Carriers
+7354	Insurance, Major Medical
+6287	Health Planning Guidelines
+6292	Health Priorities
+13221	State Health Plans
+6288	Health Planning Organizations
+6265	Health Care Coalitions
+6286	Health Planning Councils
+13317	Strikes, Employee
+9307	National Academy of Sciences (U.S.)
+572	American Heart Association
+12657	Self-Help Groups
+436	Alcoholics Anonymous
+12954	Societies, Hospital
+7591	Joint Commission on Accreditation of Healthcare Organizations
+7885	Legislation, Pharmacy
+11050	Policy Making
+13673	Technology Assessment, Biomedical
+3249	Constitution and Bylaws
+9936	Organizational Innovation
+9937	Organizational Objectives
+7586	Job Application
+7587	Job Description
+10563	Personnel Turnover
+6125	Group Practice, Prepaid
+9745	Nursing, Supervisory
+9818	Office Nursing
+9819	Office Visits
+11215	Practice Management, Dental
+11362	Professional Corporations
+11365	Professional Practice Location
+7373	Interinstitutional Relations
+10818	Physician's Practice Patterns
+4189	Disaster Planning
+4196	Disease Outbreaks
+1207	Asepsis
+1132	Arm
+10502	Perineum
+14781	Viscera
+51472	Elastic Cartilage
+7817	Laryngeal Cartilages
+3413	Cricoid Cartilage
+13957	Thyroid Cartilage
+51457	Hyaline Cartilage
+8022	Ligaments
+9	Abdominal Muscles
+1133	Bones of Upper Extremity
+50276	Hand Bones
+2348	Carpal Bones
+9915	Orbit
+13115	Spinal Canal
+4824	Epidural Space
+13704	Temporomandibular Joint
+1652	Bile Ducts
+17734	Bile Ducts, Extrahepatic
+3135	Common Bile Duct
+5704	Gallbladder
+7421	Intestine, Small
+4386	Duodenum
+2299	Cardia
+11708	Pylorus
+8099	Liver
+10179	Pancreas
+7515	Islets of Langerhans
+7830	Larynx
+9305	Nasopharynx
+290	Adnexa Uteri
+5187	Fallopian Tubes
+2584	Cervix Uteri
+1011	Aorta
+19074	Epigastric Arteries
+17534	Radial Artery
+55806	Microvessels
+2196	Capillaries
+5154	Facial Nerve
+4424	Ear Canal
+3315	Cornea
+7907	Lens Nucleus, Crystalline
+14822	Vitreous Body
+8221	Lymphoid Tissue
+8198	Lymph Nodes
+19738	Surgically-Created Structures
+13524	Surgical Flaps
+2462	Cell Membrane
+45604	Extracellular Fluid
+3239	Connective Tissue Cells
+8407	Mast Cells
+12661	Semen
+1202	Ascitic Fluid
+5312	Fetal Blood
+2555	Cerebrospinal Fluid
+10057	Oviducts
+5333	Fetus
+10920	Placenta
+835	Animals, Wild
+3058	Cockroaches
+17848	Blood-Borne Pathogens
+456	Algae
+6090	Gram-Negative Bacteria
+39903	Actinobacteria
+192	Actinomycetales
+9159	Mycobacteriaceae
+9161	Mycobacterium
+9163	Mycobacterium bovis
+16987	Gram-Positive Rods
+6093	Gram-Positive Asporogenous Rods
+16989	Gram-Positive Asporogenous Rods, Regular
+14780	Viruses
+4267	DNA Viruses
+6564	Herpesviridae
+18138	Alphaherpesvirinae
+18140	Varicellovirus
+14645	Herpesvirus 3, Human
+6518	Hepatitis Viruses
+6507	Hepatovirus
+12328	RNA Viruses
+10849	Picornaviridae
+12190	Retroviridae
+16086	Lentivirus
+17958	Lentiviruses, Primate
+6678	HIV
+15497	HIV-1
+14712	Vertebrate Viruses
+1105	Archaea
+20806	Central Nervous System Bacterial Infections
+16920	Meningitis, Bacterial
+8585	Meningitis, Meningococcal
+1899	Borrelia Infections
+8193	Lyme Disease
+2694	Chlamydiaceae Infections
+2690	Chlamydia Infections
+4756	Enterobacteriaceae Infections
+15009	Yersinia Infections
+10930	Plague
+16870	Neisseriaceae Infections
+8589	Meningococcal Infections
+17282	Tick-Borne Diseases
+31	Abortion, Septic
+2644	Chickenpox
+6562	Herpes Zoster
+12514	Sarcoma, Kaposi
+6506	Hepatitis A
+6526	Hepatitis C
+18178	Flaviviridae Infections
+9976	Orthomyxoviridae Infections
+7251	Influenza, Human
+6374	Helminthiasis, Animal
+14120	Toxocariasis
+17191	Ascaridida Infections
+10273	Parasitic Diseases, Animal
+3048	Coccidiosis
+8288	Malaria
+3560	Cysts
+4814	Epidermal Cyst
+7945	Leukemia, Lymphoid
+54198	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+18204	Neoplasms, Connective and Soft Tissue
+12509	Sarcoma
+2277	Carcinoma
+230	Adenocarcinoma
+44584	Carcinoma, Ductal
+18270	Carcinoma, Ductal, Breast
+2278	Carcinoma in Situ
+18290	Cervical Intraepithelial Neoplasia
+18299	Neoplasms, Ductal, Lobular, and Medullary
+9383	Neoplasms, Vascular Tissue
+9506	Nevus
+4416	Dysplastic Nevus Syndrome
+4938	Esophageal Neoplasms
+13274	Stomach Neoplasms
+10051	Ovarian Neoplasms
+9062	Mouth Neoplasms
+9423	Nervous System Neoplasms
+16543	Central Nervous System Neoplasms
+1932	Brain Neoplasms
+2283	Carcinoma, Bronchogenic
+5834	Genital Neoplasms, Male
+11471	Prostatic Neoplasms
+9381	Neoplasms, Radiation-Induced
+9386	Neoplastic Syndromes, Hereditary
+11230	Precancerous Conditions
+2578	Uterine Cervical Dysplasia
+1851	Bone Diseases, Metabolic
+10024	Osteoporosis
+5534	Foot Diseases
+6226	Hand Deformities
+6227	Hand Deformities, Acquired
+3680	Deglutition Disorders
+15154	Esophageal Motility Disorders
+5764	Gastroesophageal Reflux
+6471	Gastrointestinal Hemorrhage
+43963	Diverticulosis, Colonic
+4239	Diverticulitis, Colonic
+17219	Gastric Outlet Obstruction
+11707	Pyloric Stenosis
+10182	Pancreatic Diseases
+3550	Cystic Fibrosis
+10532	Peritoneal Diseases
+14681	Velopharyngeal Insufficiency
+14069	Tonsillitis
+18677	Tooth Injuries
+6976	Hypertension, Pulmonary
+11014	Pneumonia
+11654	Pulmonary Edema
+9668	Nose Diseases
+4844	Epistaxis
+10254	Paranasal Sinus Diseases
+12852	Sinusitis
+1049	Apnea
+12891	Sleep Apnea Syndromes
+4417	Dyspnea
+10300	Parkinson Disease
+1926	Brain Death
+2545	Brain Ischemia
+20520	Brain Infarction
+2544	Cerebral Infarction
+2546	Ischemic Attack, Transient
+20212	Carotid Artery Injuries
+20214	Cerebrovascular Trauma
+2538	Intracranial Arteriovenous Malformations
+20521	Stroke
+12640	Seizures
+20773	Headache Disorders
+51270	Headache Disorders, Primary
+8881	Migraine Disorders
+6849	Hydrocephalus
+19586	Intracranial Hypertension
+8581	Meningitis
+9421	Nervous System Malformations
+20785	Central Nervous System Vascular Malformations
+9436	Neural Tube Defects
+4421	Dystonia
+14202	Tremor
+8569	Memory Disorders
+647	Amnesia
+17116	Low Back Pain
+12021	Reflex, Abnormal
+1405	Reflex, Babinski
+3929	Diabetic Neuropathies
+20423	Median Neuropathy
+2349	Carpal Tunnel Syndrome
+9408	Nerve Compression Syndromes
+20919	Sleep Disorders, Intrinsic
+7319	Sleep Initiation and Maintenance Disorders
+9216	Myopia
+12164	Retinal Diseases
+3930	Diabetic Retinopathy
+10409	Penile Diseases
+7021	Hypospadias
+11469	Prostatic Diseases
+13733	Testicular Diseases
+14564	Urogenital Abnormalities
+7676	Kidney Failure, Chronic
+51436	Renal Insufficiency, Chronic
+6029	Glycosuria
+6417	Hematuria
+291	Adnexal Diseases
+10049	Ovarian Diseases
+858	Anovulation
+8595	Menorrhagia
+14596	Uterine Prolapse
+14623	Vaginal Diseases
+14845	Vulvar Diseases
+22	Abortion, Spontaneous
+5310	Fetal Alcohol Syndrome
+11254	Pregnancy in Diabetics
+11271	Pregnancy, Ectopic
+14188	Transposition of Great Vessels
+54079	Vascular Malformations
+1165	Arteriovenous Malformations
+1281	Atrial Fibrillation
+6332	Cardiomegaly
+17379	Hypertrophy, Left Ventricular
+6333	Heart Failure
+14262	Tricuspid Valve Insufficiency
+10490	Pericardial Effusion
+17542	Aneurysm, Ruptured
+1014	Aortic Aneurysm
+1018	Aortic Diseases
+3925	Diabetic Angiopathies
+17719	Diabetic Foot
+4211	Disseminated Intravascular Coagulation
+19851	Thrombophilia
+8209	Lymphedema
+13158	Splenic Diseases
+13161	Splenic Rupture
+12868	Skin Abnormalities
+6933	Hyperbilirubinemia, Hereditary
+5878	Gilbert Disease
+8664	Metal Metabolism, Inborn Errors
+6432	Hemochromatosis
+8180	Lupus Erythematosus, Systemic
+17486	Acneiform Eruptions
+152	Acne Vulgaris
+5348	Fibrocystic Breast Disease
+5148	Facial Dermatoses
+16523	Foot Ulcer
+12625	Sebaceous Gland Diseases
+12883	Skin Ulcer
+7871	Leg Ulcer
+137	Acid-Base Imbalance
+138	Acidosis
+16883	Diabetic Ketoacidosis
+19189	Iron Metabolism Disorders
+19190	Iron Overload
+15362	Child Nutrition Disorders
+11488	Protein Deficiency
+11502	Protein-Energy Malnutrition
+308	Adrenocortical Hyperfunction
+3480	Cushing Syndrome
+48909	Diabetes Complications
+6058	Gonadal Disorders
+10279	Parathyroid Diseases
+5512	Food Hypersensitivity
+7160	Immunoproliferative Disorders
+5517	Food Poisoning
+7855	Lead Poisoning
+20751	Alcohol-Induced Disorders
+19970	Cocaine-Related Disorders
+6556	Heroin Dependence
+7	Abdominal Injuries
+1469	Barotrauma
+1753	Blast Injuries
+12253	Rib Fractures
+16512	Ankle Injuries
+18409	Foot Injuries
+14911	Whiplash Injuries
+12421	Rupture
+13180	Sprains and Strains
+12090	Cumulative Trauma Disorders
+13898	Thoracic Injuries
+14949	Wounds, Nonpenetrating
+14951	Wounds, Stab
+16602	Needlestick Injuries
+6984	Hypertrophy
+13398	Sudden Infant Death
+6406	Hematoma
+7431	Intraoperative Complications
+7511	Ischemia
+8305	Malignant Hyperthermia
+1724	Birth Weight
+5316	Fetal Distress
+855	Anorexia
+3248	Constipation
+6963	Hyperphagia
+2032	Bulimia
+9325	Nausea
+12135	Respiratory Sounds
+13456	Sulfur Acids
+13464	Sulfuric Acids
+17609	Barium Compounds
+1466	Barium Sulfate
+13431	Sulfates
+2244	Carbon
+2606	Charcoal
+18011	Chalcogens
+10100	Oxygen
+4603	Elements, Radioactive
+11886	Radon
+6859	Hydrogen
+2118	Calcium
+19216	Metals, Heavy
+7501	Iron
+7854	Lead
+8628	Mercury
+5741	Noble Gases
+28561	Transition Elements
+12833	Siloxanes
+438	Alcohols
+605	Amino Alcohols
+11412	Propanolamines
+11433	Propranolol
+20005	Propanols
+447	Aldehydes
+5557	Formaldehyde
+50198	Phenoxypropanolamines
+1372	Aza Compounds
+14326	Tropanes
+3042	Cocaine
+16578	Crack Cocaine
+6844	Hydrocarbons, Cyclic
+6841	Hydrocarbons, Aromatic
+1555	Benzene Derivatives
+1597	Benzylidene Compounds
+13267	Stilbenes
+4054	Diethylstilbestrol
+11084	Polycyclic Hydrocarbons, Aromatic
+9279	Naphthacenes
+13754	Tetracyclines
+13752	Tetracycline
+9281	Naphthalenes
+9150	Mustard Compounds
+9588	Nitrogen Mustard Compounds
+10752	Phosphoramide Mustards
+3520	Cyclophosphamide
+7659	Ketones
+8691	Methadone
+12828	Silicones
+10640	Phenothiazines
+5476	Fluphenazine
+13454	Sulfoxides
+53799	2-Pyridinylmethylsulfinylbenzimidazoles
+9853	Omeprazole
+10880	Piperidines
+5283	Fentanyl
+15760	Alfentanil
+4110	Diltiazem
+1562	Benzimidazoles
+493	Allopurinol
+7042	Hypoxanthines
+6147	Guanine
+212	Acyclovir
+11804	Quinolines
+15363	Quinolones
+24841	Fluoroquinolones
+2939	Ciprofloxacin
+6575	Heterocyclic Compounds, 3-Ring
+3984	Dibenzazepines
+7099	Imipramine
+731	Androstanes
+736	Androstenes
+737	Androstenols
+13739	Testosterone
+2776	Cholestanes
+2782	Cholestenes
+2784	Cholesterol
+13261	Sterols
+11239	Prednisolone
+8775	Methylprednisolone
+11283	Pregnenes
+11282	Pregnenediones
+6854	Hydrocortisone
+12826	Silicone Elastomers
+6889	Hydroxycorticosteroids
+15062	11-Hydroxycorticosteroids
+15065	17-Hydroxycorticosteroids
+42341	Gonadal Hormones
+12739	Gonadal Steroid Hormones
+45165	Testosterone Congeners
+7028	Hypothalamic Hormones
+11333	Pro-Opiomelanocortin
+324	Adrenocorticotropic Hormone
+53486	Melanocortins
+10907	Pituitary Hormones
+10908	Pituitary Hormones, Anterior
+45762	Enzymes and Coenzymes
+4798	Enzymes
+6867	Hydrolases
+10447	Peptide Hydrolases
+10450	Endopeptidases
+12697	Serine Endopeptidases
+7610	Kallikreins
+17430	Prostate-Specific Antigen
+8563	Membrane Lipids
+598	Amino Acids, Cyclic
+24322	Amino Acids, Aromatic
+14364	Tryptophan
+601	Amino Acids, Essential
+9479	Neuropeptides
+1426	Bacterial Proteins
+1905	Botulinum Toxins
+1798	Blood Proteins
+1779	Blood Coagulation Factors
+7162	Immunoproteins
+7136	Immunoglobulins
+906	Antibodies
+911	Antibodies, Monoclonal
+914	Antibodies, Viral
+6508	Hepatitis Antibodies
+12712	Serum Globulins
+5326	Fetal Proteins
+509	alpha-Fetoproteins
+5916	Globulins
+9419	Nerve Tissue Proteins
+29589	Seminal Plasma Proteins
+29584	Prostatic Secretory Proteins
+15721	Diphtheria-Tetanus-Pertussis Vaccine
+10567	Pertussis Vaccine
+14121	Toxoids
+4168	Diphtheria Toxoid
+13745	Tetanus Toxoid
+17778	Vaccines, Combined
+8458	Measles Vaccine
+9108	Mumps Vaccine
+12411	Rubella Vaccine
+17325	Hepatitis B Vaccines
+52638	Particulate Matter
+4391	Dust
+14866	Waste Products
+6256	Hazardous Waste
+942	Antigens, Bacterial
+14373	Tuberculin
+951	Antigens, Neoplasm
+956	Antigens, Viral
+18963	Hepatitis Antigens
+6511	Hepatitis B Antigens
+6514	Hepatitis B Surface Antigens
+15415	Biological Markers
+14408	Tumor Markers, Biological
+14118	Toxins, Biological
+1427	Bacterial Toxins
+1672	Biocompatible Materials
+3764	Dental Materials
+15921	Dental Implants
+8567	Membranes, Artificial
+20724	Elastomers
+13287	Street Drugs
+45504	Molecular Mechanisms of Pharmacological Action
+963	Antimetabolites
+960	Antilipemic Agents
+50299	Fibrin Modulating Agents
+5343	Fibrinolytic Agents
+49990	Membrane Transport Modulators
+2121	Calcium Channel Blockers
+18377	Neurotransmitter Agents
+18663	Adrenergic Agents
+18674	Adrenergic Antagonists
+319	Adrenergic beta-Antagonists
+18494	Histamine Agents
+6633	Histamine Antagonists
+6634	Histamine H1 Antagonists
+6635	Histamine H2 Antagonists
+6993	Hypnotics and Sedatives
+6133	Growth Substances
+18977	Micronutrients
+14815	Vitamins
+7155	Immunologic Factors
+7166	Immunosuppressive Agents
+18712	Analgesics, Non-Narcotic
+894	Anti-Inflammatory Agents, Non-Steroidal
+701	Analgesics, Opioid
+977	Antiparasitic Agents
+981	Antiprotozoal Agents
+962	Antimalarials
+4202	Disinfectants
+18501	Antirheumatic Agents
+3287	Contrast Media
+19995	Laboratory Chemicals
+7202	Indicators and Reagents
+11933	Reagent Kits, Diagnostic
+4785	Environmental Pollutants
+15386	Hazardous Substances
+13723	Teratogens
+7090	Image Interpretation, Computer-Assisted
+17831	Diagnosis, Dual (Psychiatry)
+15588	Observer Variation
+1944	Breath Tests
+14055	Tomography, Emission-Computed
+15899	Tomography, Emission-Computed, Single-Photon
+14057	Tomography, X-Ray Computed
+8279	Magnetic Resonance Imaging
+18715	Microscopy, Video
+7089	Image Enhancement
+11856	Radiographic Image Enhancement
+17023	Coronary Angiography
+5471	Fluoroscopy
+8220	Lymphography
+11860	Radiography, Abdominal
+2758	Cholangiography
+2760	Cholangiopancreatography, Endoscopic Retrograde
+15641	Radiography, Interventional
+15150	Echocardiography, Doppler
+18616	Ultrasonography, Doppler, Duplex
+18084	Ultrasonography, Interventional
+16216	Ultrasonography, Prenatal
+15716	Electrocardiography, Ambulatory
+2407	Catheterization, Swan-Ganz
+10092	Oximetry
+10147	Pain Measurement
+19836	Preimplantation Diagnosis
+649	Amniocentesis
+14792	Visual Acuity
+8176	Lung Volume Measurements
+14109	Total Lung Capacity
+5652	Functional Residual Capacity
+12115	Residual Volume
+1707	Biopsy, Needle
+13906	Thoracoscopy
+20535	Video-Assisted Surgery
+9403	Nephrostomy, Percutaneous
+16482	Urinalysis
+14546	Urinary Catheterization
+5820	Genetic Screening
+15997	Neonatal Screening
+16903	Drug Monitoring
+18670	Monitoring, Ambulatory
+16343	Monitoring, Intraoperative
+1034	Apgar Score
+16353	Self-Examination
+16504	Breast Self-Examination
+12882	Skin Tests
+14374	Tuberculin Test
+6403	Hematologic Tests
+1772	Blood Cell Count
+1856	Bone Marrow Examination
+10979	Platelet Function Tests
+1760	Bleeding Time
+7159	Immunologic Tests
+7118	Immunoassay
+15151	Immunoblotting
+15153	Blotting, Western
+12698	Serologic Tests
+15492	AIDS Serodiagnosis
+19152	Paracentesis
+20858	Tissue and Organ Harvesting
+16896	Treatment Outcome
+49088	Bariatrics
+50110	Bariatric Surgery
+15187	Lipectomy
+16913	Blood Component Transfusion
+17707	Erythrocyte Transfusion
+7115	Immunization Schedule
+1781	Blood Component Removal
+15906	Angioplasty, Transluminal, Percutaneous Coronary
+2406	Catheterization, Peripheral
+2985	Clinical Protocols
+3131	Combined Modality Therapy
+10778	Photochemotherapy
+9071	Moxibustion
+19367	Medicine, Unani
+19122	Meditation
+18953	Kinesiology, Applied
+3869	Dermabrasion
+16462	Mammaplasty
+15361	Rhytidoplasty
+7268	Injections, Epidural
+4733	Enema
+20249	Hormone Replacement Therapy
+15914	Estrogen Replacement Therapy
+15912	Thrombolytic Therapy
+16887	Cardiopulmonary Resuscitation
+16414	Resuscitation Orders
+10289	Parenteral Nutrition, Total
+6489	Hemostatic Techniques
+4621	Embolization, Therapeutic
+6875	Hydrotherapy
+17075	Laser Coagulation
+8096	Lithotripsy
+10531	Peritoneal Dialysis, Continuous Ambulatory
+17055	Intensive Care
+15931	Intensive Care, Neonatal
+3631	Day Care
+17050	Episode of Care
+10360	Patient Transfer
+3688	Deinstitutionalization
+18743	Perinatal Care
+16742	Preconception Care
+5065	Euthanasia
+28601	Euthanasia, Active
+33101	Euthanasia, Active, Voluntary
+17051	Hospice Care
+17236	Suicide, Assisted
+28761	Withholding Treatment
+10356	Patient Isolation
+10789	Phototherapy
+14916	Whole-Body Irradiation
+15199	Extracorporeal Membrane Oxygenation
+10102	Oxygen Inhalation Therapy
+6931	Hyperbaric Oxygenation
+16292	Conscious Sedation
+1166	Arteriovenous Shunt, Surgical
+2557	Cerebrospinal Fluid Shunts
+9204	Myocardial Revascularization
+1026	Coronary Artery Bypass
+16894	Endarterectomy, Carotid
+1662	Biliary Tract Surgical Procedures
+2763	Cholecystectomy
+17081	Cholecystectomy, Laparoscopic
+16629	Esophagectomy
+18662	Fundoplication
+5774	Gastrostomy
+16031	Liver Transplantation
+10180	Pancreatectomy
+4598	Electrosurgery
+5112	Extracorporeal Circulation
+8197	Lymph Node Excision
+5113	Extraction, Obstetrical
+14620	Vacuum Extraction, Obstetrical
+16064	Vaginal Birth after Cesarean
+8028	Light Coagulation
+18918	Phacoemulsification
+15948	Keratoplasty, Penetrating
+7646	Keratotomy, Radial
+19647	Oral Surgical Procedures
+13516	Oral Surgical Procedures, Preprosthetic
+3757	Dental Implantation
+3758	Dental Implantation, Endosseous
+14081	Tooth Extraction
+1174	Arthrodesis
+13123	Spinal Fusion
+1178	Arthroplasty
+19643	Arthroplasty, Replacement
+19644	Arthroplasty, Replacement, Hip
+14139	Tracheostomy
+14068	Tonsillectomy
+19919	Prosthesis Implantation
+13156	Splenectomy
+17558	Surgical Procedures, Elective
+3096	Collapse Therapy
+11031	Pneumothorax, Artificial
+13908	Thoracotomy
+7045	Hysterectomy, Vaginal
+9392	Nephrectomy
+14547	Urinary Diversion
+14824	Vivisection
+16477	Artifacts
+3956	Dialysis
+10783	Photometry
+3720	Densitometry
+2452	Cell Count
+8867	Microtomy
+16616	Cryoultramicrotomy
+5629	Frozen Sections
+16610	Tissue Embedding
+16613	Plastic Embedding
+1431	Bacteriological Techniques
+3627	Data Interpretation, Statistical
+15577	Geriatric Assessment
+12720	Severity of Illness Index
+11159	Population Surveillance
+19538	Health Care Surveys
+17144	Focus Groups
+33262	Narration
+8498	Medical Record Linkage
+16347	Medical Records Systems, Computerized
+2423	Cause of Death
+17052	Hospital Mortality
+16001	Confidence Intervals
+15233	Models, Statistical
+18803	Models, Economic
+9010	Monte Carlo Method
+1499	Bayes Theorem
+12306	Risk
+18570	Risk Assessment
+35501	Uncertainty
+12044	Regression Analysis
+12680	Sensitivity and Specificity
+12372	ROC Curve
+5500	Follow-Up Studies
+18849	Controlled Clinical Trials as Topic
+16032	Randomized Controlled Trials as Topic
+15337	Multicenter Studies as Topic
+15340	Epidemiologic Research Design
+15201	Meta-Analysis as Topic
+11237	Predictive Value of Tests
+11358	Product Surveillance, Postmarketing
+16907	Adverse Drug Reaction Reporting Systems
+5821	Genetic Techniques
+6580	Heterozygote Detection
+15336	Molecular Probe Techniques
+7201	Indicator Dilution Techniques
+17214	Laryngeal Masks
+17145	Models, Educational
+17146	Models, Organizational
+17711	Nonlinear Dynamics
+10477	Perfusion
+15813	Substance Abuse Detection
+13678	Technology, Pharmaceutical
+4356	Drug Storage
+12016	Reference Values
+17742	Dental Care for Chronically Ill
+3765	Dental Models
+3766	Dental Occlusion
+3814	Dentistry, Operative
+12390	Root Canal Therapy
+19242	Oral Medicine
+9971	Orthodontics, Corrective
+17266	Dental Prosthesis
+3778	Dentures
+3779	Denture Design
+3829	Denture, Partial
+2408	Catheters, Indwelling
+3273	Contraceptive Devices
+3274	Contraceptive Devices, Female
+7434	Intrauterine Devices
+20776	Endoscopes, Gastrointestinal
+20706	Laparoscopes
+20704	Laryngoscopes
+19722	Sphygmomanometers
+15924	Blood Pressure Monitors
+19023	Stethoscopes
+9330	Nebulizers and Vaporizers
+7834	Lasers
+8397	Masks
+55618	Radiation Equipment and Supplies
+9989	Orthotic Devices
+13528	Surgical Staplers
+374	Aggression
+17007	Duty to Warn
+17008	Negotiating
+9633	Nonverbal Communication
+10565	Persuasive Communication
+9043	Motor Activity
+43762	Reproductive Behavior
+3268	Contraception Behavior
+17406	Sexual Harassment
+1727	Bisexuality
+18452	Homosexuality, Female
+18451	Homosexuality, Male
+2562	Ceremonial Behavior
+8192	Deception
+37921	Gift Giving
+6379	Helping Behavior
+4291	Dominance-Subordination
+20340	Tobacco Use Cessation
+16540	Smoking Cessation
+184	Acting Out
+3717	Denial (Psychology)
+5239	Fear
+1240	Aspirations (Psychology)
+11209	Power (Psychology)
+8257	Machiavellianism
+11936	Reality Testing
+12650	Self Disclosure
+20377	Self Efficacy
+14473	Unconscious (Psychology)
+16487	Parenting
+32921	Consensus
+18024	Peer Review, Health Care
+17712	Peer Review, Research
+34462	Dissent and Disputes
+19555	Physician-Nurse Relations
+35502	Trust
+28722	Virtues
+11610	Psychosocial Deprivation
+11214	Practice (Psychology)
+18794	Problem-Based Learning
+7721	Knowledge of Results (Psychology)
+11678	Punishment
+12201	Reward
+1307	Auditory Perception
+13067	Speech Perception
+3867	Depth Perception
+46709	Pattern Recognition, Physiological
+10364	Pattern Recognition, Visual
+26684	Personal Autonomy
+5863	Gestalt Theory
+8328	Man-Machine Systems
+17748	Time Management
+14477	Underachievement
+14785	Vision, Ocular
+9771	Obsessive-Compulsive Disorder
+1068	Eating Disorders
+856	Anorexia Nervosa
+19958	Attention Deficit and Disruptive Behavior Disorders
+1289	Attention Deficit Disorder with Hyperactivity
+6677	Histrionic Personality Disorder
+10324	Passive-Aggressive Personality Disorder
+35841	Behavioral Research
+19336	Cognitive Science
+9484	Neuropsychology
+11779	Q-Sort
+9483	Neuropsychological Tests
+15928	Cognitive Therapy
+8564	Membrane Potentials
+11312	Pressure
+9997	Osmotic Pressure
+15398	Signal Transduction
+55537	Light Signal Transduction
+9994	Osmolar Concentration
+10539	Permeability
+13810	Therapeutic Equivalency
+2468	Cell Physiological Phenomena
+16764	Cell Polarity
+55648	Cell Physiological Processes
+5089	Exocytosis
+15550	Cell Degranulation
+2940	Circadian Rhythm
+55725	Electrophysiological Processes
+9431	Neural Conduction
+5328	Fetal Viability
+18565	Food-Drug Interactions
+9024	Morphogenesis
+5314	Embryonic and Fetal Development
+47109	Fetal Development
+38081	Organogenesis
+41641	Musculoskeletal Development
+1846	Bone Development
+8445	Maxillofacial Development
+49590	Postpartum Period
+7774	Lactation
+11264	Pregnancy Trimesters
+11261	Pregnancy Trimester, First
+10060	Ovulation
+7743	Labor, Obstetric
+36801	Parturition
+6700	Home Childbirth
+11253	Pregnancy in Adolescence
+1775	Blood Circulation
+8833	Microcirculation
+11652	Pulmonary Circulation
+12039	Regional Blood Flow
+6339	Heart Rate
+6340	Heart Rate, Fetal
+15656	Respiratory Mechanics
+9063	Dental Physiological Phenomena
+55690	Dental Physiological Processes
+15444	Exercise
+12420	Running
+13550	Swimming
+11187	Posture
+15170	Cerebrospinal Fluid Pressure
+7427	Intracranial Pressure
+13472	Sunlight
+9812	Odors
+3663	Decision Trees
+16571	Neural Networks (Computer)
+19412	Anatomy, Cross-Sectional
+6654	Histology, Comparative
+19295	Computational Biology
+23281	Genomics
+16045	Human Genome Project
+36281	Genetic Research
+7218	Industrial Microbiology
+1701	Bionics
+1709	Biotechnology
+2626	Chemistry, Pharmaceutical
+12371	Robotics
+11789	Quantum Theory
+36262	Empirical Research
+18511	Systems Integration
+3149	Community Dentistry
+55317	Evidence-Based Practice
+19317	Evidence-Based Medicine
+18787	Radiation Oncology
+19113	Telepathology
+19550	Environmental Medicine
+15642	Radiology, Interventional
+18456	Reproductive Medicine
+17216	Telemedicine
+16529	Emergency Nursing
+16389	Maternal-Child Nursing
+17283	Neonatal Nursing
+8888	Military Nursing
+9859	Oncologic Nursing
+16528	Postanesthesia Nursing
+12573	School Nursing
+12699	Serology
+69	Acculturation
+18643	Arab World
+18864	Cultural Diversity
+5655	Funeral Rites
+4615	Embalming
+4552	Elder Abuse
+40841	Resource Allocation
+15276	Health Care Rationing
+14487	Centers for Medicare and Medicaid Services (U.S.)
+14486	United States Food and Drug Administration
+16549	United States Indian Health Service
+18557	United States National Aeronautics and Space Administration
+13219	State Government
+18595	Colonialism
+8119	Lobbying
+17149	Private Sector
+17150	Public Sector
+17087	Animal Rights
+3068	Coercion
+33161	Government Regulation
+3254	Consumer Advocacy
+5610	Freedom
+12297	Right to Die
+12935	Social Justice
+32982	Contracts
+3309	Copyright
+16365	Liability, Legal
+10067	Ownership
+19724	Presumed Consent
+37141	Mandatory Programs
+18580	Mandatory Testing
+18166	Health Care Reform
+18673	Nutrition Policy
+19058	Community Networks
+3617	Dangerous Behavior
+2618	Chemical Warfare
+20375	Education, Distance
+6267	Health Education, Dental
+5179	Faculty, Dental
+20380	Needs Assessment
+12582	Schools, Veterinary
+16544	Patient Simulation
+3615	Dancing
+6686	Hobbies
+16139	Martial Arts
+9051	Mountaineering
+4242	Diving
+16520	Entrepreneurship
+19981	Health Care Sector
+40761	Biomimetic Materials
+5389	Firearms
+19212	Multimedia
+16250	Compact Disks
+19034	CD-I
+16251	CD-ROM
+11786	Quality Control
+18581	Technology Transfer
+17732	Air Ambulances
+18531	Spacecraft
+19587	Dietary Supplements
+10151	Paintings
+9613	Nobel Prize
+28661	Complicity
+16265	Conflict of Interest
+32764	Casuistry
+33061	Ethics Consultation
+32984	Ethics, Research
+19513	Feminism
+28662	Principle-Based Ethics
+26686	Beneficence
+15871	Scientific Misconduct
+422	Alchemy
+19024	Barber Surgeons
+19356	Grave Robbing
+10792	Phrenology
+19359	Knowledge
+8092	Literature, Medieval
+19368	Nature
+33303	Protestantism
+19303	Multilingualism
+4	Abbreviations as Topic
+17010	Reminder Systems
+11904	Rare Books
+12196	Review Literature as Topic
+3245	Consensus Development Conferences as Topic
+14177	Translations
+17215	Satellite Communications
+16636	Telefacsimile
+19114	Remote Consultation
+16494	Computer Security
+9323	Natural Language Processing
+17076	Computer-Aided Design
+20407	Internet
+8122	Local Area Networks
+16248	Computer Storage Devices
+8905	Minicomputers
+8432	Mathematical Computing
+16240	Grateful Med
+19146	Hypermedia
+11381	Programming Languages
+12985	Software Design
+12986	Software Validation
+14584	User-Computer Interface
+19451	Information Management
+16206	Databases, Bibliographic
+18875	Vocabulary, Controlled
+17432	Unified Medical Language System
+19992	Databases as Topic
+39781	PubMed
+16239	MEDLINE
+16208	Databases, Factual
+16749	National Practitioner Data Bank
+2984	Clinical Laboratory Information Systems
+20000	Decision Support Systems, Clinical
+16490	Integrated Advanced Information Management Systems
+8492	Medical Informatics Computing
+10363	Pattern Recognition, Automated
+1879	Bookselling
+1872	Book Prices
+20452	Journalism
+18156	Journalism, Medical
+16330	Frail Elderly
+19102	Infant, Very Low Birth Weight
+17028	Caregivers
+19548	Crime Victims
+19988	Disabled Children
+19989	Mentally Disabled Persons
+6703	Homeless Persons
+17057	Medically Uninsured
+16542	Chief Executive Officers, Hospital
+2977	Clergy
+9872	Operating Room Technicians
+3816	Dentists, Women
+16357	Infection Control Practitioners
+17056	Laboratory Personnel
+20445	Hospitalists
+9719	Nurse Anesthetists
+9720	Nurse Clinicians
+16245	Librarians
+17741	Survivors
+7197	Indians, Central American
+44466	Asian Continental Ancestry Group
+1213	Asian Americans
+17058	Mexican Americans
+18585	Battered Women
+37841	Pregnant Women
+14931	Women, Working
+9909	Oral Health
+17132	Workplace
+17407	Family Leave
+16524	Parental Leave
+18582	Sick Leave
+16320	Substance Abuse Treatment Centers
+18710	Pain Clinics
+16550	Birthing Centers
+6271	Health Facility Closure
+6273	Health Facility Merger
+720	Ancillary Services, Hospital
+761	Anesthesia Department, Hospital
+16507	Cardiology Service, Hospital
+9789	Occupational Therapy Department, Hospital
+16522	Oncology Service, Hospital
+11682	Purchasing, Hospital
+12948	Social Work Department, Hospital
+15285	Hospital-Patient Relations
+6754	Hospital Restructuring
+6759	Hospital-Physician Joint Ventures
+11357	Product Line Management
+3696	Delivery Rooms
+6436	Hemodialysis Units, Hospital
+2053	Burn Units
+15278	Intensive Care Units, Pediatric
+7363	Intensive Care Units, Neonatal
+16519	Hospitals, Religious
+6766	Hospitals, County
+6771	Hospitals, Maternity
+7380	Intermediate Care Facilities
+16497	Adolescent Health Services
+18575	Home Care Services, Hospital-Based
+14218	Triage
+19035	Rural Health Services
+19037	Urban Health Services
+14932	Women's Health Services
+17046	Cost Savings
+17048	Health Care Costs
+16527	Drug Costs
+17721	Hospital Costs
+17722	Hospital Charges
+2204	Capitation Fee
+18588	Fee-for-Service Plans
+66	Accounting
+5375	Financial Audit
+16344	Medicare Part A
+16345	Medicare Part B
+14942	Workers' Compensation
+18868	Insurance, Disability
+20444	Reimbursement, Disproportionate Share
+12052	Reimbursement, Incentive
+15895	Relative Value Scales
+7449	Investments
+19464	Tax Exemption
+6284	Health Plan Implementation
+6290	Health Planning Technical Assistance
+18672	Community Health Planning
+6308	Health Systems Plans
+12956	Societies, Nursing
+8006	Licensure, Hospital
+16363	Antitrust Laws
+7886	Legislation, Veterinary
+13675	Technology, High-Cost
+14850	Waiting Lists
+17598	Efficiency, Organizational
+19095	Point-of-Care Systems
+7324	Institutional Management Teams
+8330	Management Audit
+19985	Benchmarking
+9816	Office Automation
+15279	Organizational Culture
+4647	Employee Discipline
+4649	Employee Incentive Plans
+8332	Management Quality Circles
+10816	Physician Incentive Plans
+16526	Workload
+17723	Drug Utilization Review
+10934	Planning Techniques
+10317	Partnership Practice
+17009	Professional Autonomy
+17060	Patient Satisfaction
+15274	Interdepartmental Relations
+17751	Safety Management
+12637	Security Measures
+17749	Total Quality Management
+35141	Voluntary Programs
+3190	Comprehensive Dental Care
+19090	Case Management
+18802	Patient-Centered Care
+16079	Refusal to Treat
+19033	Delivery of Health Care, Integrated
+19468	Disease Management
+9746	Nursing, Team
+19983	Guideline Adherence
+17063	Outcome Assessment (Health Care)
+17064	Process Assessment (Health Care)
+3133	Commission on Professional and Hospital Activities
+17410	Practice Guidelines as Topic
+367	Age Factors
+15982	Bias (Epidemiology)
+62	Accidents, Occupational
+18562	Disease Transmission, Infectious
+17758	Infectious Disease Transmission, Patient-to-Professional
+17757	Infectious Disease Transmission, Professional-to-Patient
+4781	Environmental Exposure
+4784	Environmental Monitoring
+16273	Occupational Exposure
+9623	Noise, Occupational
+6235	Handwashing
+4203	Disinfection
+16635	Universal Precautions
+34841	Abdominal Cavity
+10537	Peritoneum
+12187	Retroperitoneal Space
+34861	Abdominal Wall
+7717	Knee
+12782	Shoulder
+5143	Eyelids
+12535	Scalp
+17773	Pelvic Floor
+35441	Thoracic Wall
+8023	Ligaments, Articular
+16118	Anterior Cruciate Ligament
+17568	Rectus Abdominis
+17006	Rotator Cuff
+8334	Mandible
+21362	Palate, Hard
+8416	Mastoid
+2574	Cervical Vertebrae
+13904	Thoracic Vertebrae
+50823	Hand Joints
+14955	Wrist Joint
+12446	Sacroiliac Joint
+12785	Shoulder Joint
+14670	Ampulla of Vater
+1003	Anal Canal
+12809	Colon, Sigmoid
+3817	Dentition
+14059	Tongue
+10183	Pancreatic Ducts
+11650	Pulmonary Alveoli
+9296	Nasal Cavity
+14132	Trachea
+14844	Vulva
+1472	Bartholin's Glands
+11467	Prostate
+13737	Testis
+5854	Germ Cells
+13094	Spermatozoa
+6066	Gonads
+1743	Urinary Bladder
+1012	Aorta, Abdominal
+1916	Brachial Artery
+2536	Cerebral Arteries
+2941	Circle of Willis
+7083	Iliac Artery
+11651	Pulmonary Artery
+12077	Renal Artery
+4730	Endothelium, Vascular
+2550	Cerebral Veins
+14684	Venae Cavae
+14682	Vena Cava, Inferior
+6325	Heart Atria
+6351	Heart Valves
+1021	Aortic Valve
+8943	Mitral Valve
+8032	Limbic System
+6624	Hippocampus
+20530	Subthalamus
+20531	Subthalamic Nucleus
+13116	Spinal Cord
+9412	Nerve Fibers
+1369	Axons
+9476	Neurons, Efferent
+9046	Motor Neurons
+2447	Celiac Plexus
+9411	Nerve Endings
+9451	Neuroeffector Junction
+9469	Neuromuscular Junction
+10	Abducens Nerve
+55	Accessory Nerve
+9802	Oculomotor Nerve
+14321	Trochlear Nerve
+13127	Spinal Nerves
+1917	Brachial Plexus
+8160	Lumbosacral Plexus
+13569	Synapses
+7758	Ear, Inner
+867	Anterior Chamber
+4728	Endothelium, Corneal
+3228	Conjunctiva
+7903	Lens Capsule, Crystalline
+7765	Lacrimal Apparatus
+9301	Nasolacrimal Duct
+12590	Sclera
+4848	Epithelium
+4727	Endothelium
+13154	Spleen
+8566	Membranes
+12704	Serous Membrane
+39021	Colonic Pouches
+16131	Lymphocyte Subsets
+21961	Cell Membrane Structures
+7365	Intercellular Junctions
+22081	Cell Surface Extensions
+4847	Epithelial Cells
+22781	Hepatocytes
+14070	Tooth
+8963	Molar
+19589	Tooth Components
+3786	Dental Pulp Cavity
+14092	Tooth Root
+19227	Tooth Apex
+1853	Bone Marrow
+42601	Lymphatic Vessels
+829	Animals, Domestic
+663	Amphibians
+7793	Lagomorpha
+11817	Rabbits
+11323	Primates
+882	Haplorhini
+51079	Catarrhini
+15186	Hominidae
+6801	Humans
+12104	Reptiles
+12911	Snakes
+9987	Orthoptera
+6110	Grasshoppers
+9348	Nematoda
+17161	Secernentea
+17168	Rhabditida
+12205	Rhabdiasoidea
+13321	Strongyloides
+17171	Strongyloides stercoralis
+17172	Rhabditoidea
+2107	Caenorhabditis
+17173	Caenorhabditis elegans
+4725	Endospore-Forming Bacteria
+16936	Gram-Positive Endospore-Forming Bacteria
+16937	Gram-Positive Endospore-Forming Rods
+3013	Clostridium
+16360	Clostridium difficile
+2695	Chlamydiales
+2693	Chlamydiaceae
+2689	Chlamydia
+2692	Chlamydia trachomatis
+6088	Gram-Negative Aerobic Bacteria
+16946	Gram-Negative Aerobic Rods and Cocci
+9346	Neisseriaceae
+9343	Neisseria
+9345	Neisseria meningitidis
+16998	Helicobacter
+16480	Helicobacter pylori
+55624	Methicillin-Resistant Staphylococcus aureus
+20560	Proteobacteria
+20562	Betaproteobacteria
+20565	Epsilonproteobacteria
+256	Adenoviridae
+18096	Mononegavirales
+10252	Paramyxoviridae
+18098	Paramyxovirinae
+18103	Morbillivirus
+8459	Measles virus
+3904	Mitosporic Fungi
+2175	Candida
+15003	Yeasts
+19669	Plant Families and Groups
+19684	Angiosperms
+31241	Caricaceae
+29441	Carica
+27844	Vitaceae
+27843	Vitis
+9754	Nuts
+16470	Bacteremia
+4697	Endocarditis, Bacterial
+15818	Eye Infections, Bacterial
+15829	Uveitis, Suppurative
+9877	Endophthalmitis
+16481	Helicobacter Infections
+11552	Pseudomonas Infections
+14735	Vibrio Infections
+2771	Cholera
+16863	Bacillaceae Infections
+881	Anthrax
+4761	Enterocolitis, Pseudomembranous
+13203	Staphylococcal Infections
+18410	Pneumonia, Bacterial
+1170	Arthritis, Infectious
+53821	Cardiovascular Infections
+21821	Communicable Diseases, Emerging
+15821	Eye Infections, Fungal
+18805	Sepsis
+12772	Shock, Septic
+3881	Dermatomycoses
+39	Peritonsillar Abscess
+10035	Otitis Media, Suppurative
+14946	Wound Infection
+13530	Surgical Wound Infection
+2177	Candidiasis
+2181	Candidiasis, Vulvovaginal
+3047	Coccidioidomycosis
+1102	Arbovirus Infections
+3715	Dengue
+30361	Papillomavirus Infections
+14860	Warts
+3218	Condylomata Acuminata
+15673	Fatigue Syndrome, Chronic
+18177	Flavivirus Infections
+6482	Hemorrhagic Fevers, Viral
+18186	Pneumovirus Infections
+18357	Respiratory Syncytial Virus Infections
+30341	Nidovirales Infections
+3333	Coronaviridae Infections
+18352	Coronavirus Infections
+45169	Severe Acute Respiratory Syndrome
+17193	Skin Diseases, Viral
+14412	Tumor Virus Infections
+17196	Rhabditida Infections
+13322	Strongyloidiasis
+7411	Intestinal Diseases, Parasitic
+16778	Malaria, Falciparum
+16771	Sarcomastigophora Infections
+16772	Mastigophora Infections
+14352	Trypanosomiasis
+47688	Breast Cyst
+10048	Ovarian Cysts
+11085	Polycystic Ovary Syndrome
+7951	Leukemia, Myeloid
+15470	Leukemia, Myeloid, Acute
+15473	Leukemia, Promyelocytic, Acute
+8223	Lymphoma
+6689	Hodgkin Disease
+9379	Neoplasms, Muscle Tissue
+7889	Leiomyoma
+18302	Neoplasms, Neuroepithelial
+5910	Glioma
+1254	Astrocytoma
+5909	Glioblastoma
+12175	Retinoblastoma
+9442	Neurilemmoma
+9464	Neuroma, Acoustic
+2292	Carcinoma, Renal Cell
+2291	Carcinoma, Papillary
+2294	Carcinoma, Squamous Cell
+18307	Neoplasms, Squamous Cell
+8579	Meningioma
+18317	Nerve Sheath Neoplasms
+9463	Neuroma
+54219	Neoplasms, Plasma Cell
+9101	Multiple Myeloma
+1859	Bone Neoplasms
+1661	Biliary Tract Neoplasms
+1650	Bile Duct Neoplasms
+3138	Common Bile Duct Neoplasms
+12811	Sigmoid Neoplasms
+3123	Colorectal Neoplasms, Hereditary Nonpolyposis
+10190	Pancreatic Neoplasms
+310	Adrenal Gland Neoplasms
+13736	Testicular Neoplasms
+16606	Thyroid Nodule
+5134	Eye Neoplasms
+19572	Retinal Neoplasms
+14134	Tracheal Neoplasms
+19337	Hematologic Neoplasms
+8577	Meningeal Neoplasms
+3390	Cranial Nerve Neoplasms
+10524	Peripheral Nervous System Neoplasms
+2289	Carcinoma, Non-Small-Cell Lung
+3074	Solitary Pulmonary Nodule
+14571	Urologic Neoplasms
+7680	Kidney Neoplasms
+1749	Urinary Bladder Neoplasms
+1848	Bone Diseases, Developmental
+4392	Dwarfism
+130	Achondroplasia
+3409	Congenital Hypothyroidism
+10009	Osteochondrodysplasias
+1849	Bone Diseases, Endocrine
+172	Acromegaly
+10005	Osteoarthropathy, Secondary Hypertrophic
+10020	Osteonecrosis
+13121	Spinal Curvatures
+12600	Scoliosis
+25241	Spondylarthritis
+55013	Osteoarthritis, Spine
+25242	Spondylarthropathies
+13167	Spondylitis, Ankylosing
+844	Ankylosis
+18771	Arthralgia
+20069	Shoulder Pain
+15207	Osteoarthritis, Hip
+20370	Osteoarthritis, Knee
+13585	Synovitis
+5356	Fibromyalgia
+1649	Bile Duct Diseases
+2761	Cholangitis
+3137	Common Bile Duct Diseases
+41761	Cholecystolithiasis
+42882	Gallstones
+41881	Cholecystitis, Acute
+4065	Digestive System Abnormalities
+1471	Barrett Esophagus
+4760	Enterocolitis
+10438	Peptic Ulcer Hemorrhage
+12810	Sigmoid Diseases
+4378	Duodenal Diseases
+10437	Peptic Ulcer
+7415	Intestinal Obstruction
+7443	Intussusception
+6502	Budd-Chiari Syndrome
+6465	Hemoperitoneum
+1528	Behcet Syndrome
+13280	Stomatitis
+10547	Persistent Fetal Circulation Syndrome
+29424	Pulmonary Disease, Chronic Obstructive
+11655	Pulmonary Embolism
+12220	Rhinitis
+12221	Rhinitis, Allergic, Perennial
+10995	Pleural Diseases
+11030	Pneumothorax
+20181	Sleep Apnea, Obstructive
+402	Airway Obstruction
+14133	Tracheal Diseases
+18424	Cholesteatoma, Middle Ear
+6314	Hearing Loss, Conductive
+8417	Mastoiditis
+12181	Retrocochlear Diseases
+160	Vestibulocochlear Nerve Diseases
+20278	Demyelinating Autoimmune Diseases, CNS
+9103	Multiple Sclerosis
+1342	Autonomic Nervous System Diseases
+2526	Cerebellar Diseases
+16893	Carotid Stenosis
+2542	Intracranial Embolism and Thrombosis
+20766	Intracranial Embolism
+20300	Intracranial Hemorrhages
+20198	Intracranial Hemorrhage, Traumatic
+6407	Hematoma, Epidural, Cranial
+6408	Hematoma, Subdural
+20200	Hematoma, Subdural, Chronic
+4679	Encephalomyelitis
+3294	Seizures, Febrile
+18781	Tension-Type Headache
+51303	Trigeminal Autonomic Cephalalgias
+3027	Cluster Headache
+7027	Hypothalamic Diseases
+10900	Pituitary Diseases
+6964	Hyperpituitarism
+20821	Dystonic Disorders
+14103	Torticollis
+690	Amyotrophic Lateral Sclerosis
+52879	Subacute Combined Degeneration
+13595	Syringomyelia
+21081	Chronobiology Disorders
+20178	Sleep Disorders, Circadian Rhythm
+9901	Optic Nerve Diseases
+9896	Optic Atrophy
+3711	Demyelinating Diseases
+6832	Hydranencephaly
+1037	Aphasia
+1184	Articulation Disorders
+4401	Dysarthria
+3221	Confusion
+3693	Delirium
+13575	Syncope
+4314	Down Syndrome
+11596	Psychomotor Disorders
+5157	Facial Pain
+19547	Neck Pain
+20268	Alcohol-Induced Disorders, Nervous System
+6970	Disorders of Excessive Somnolence
+3229	Conjunctival Diseases
+3231	Conjunctivitis
+7637	Keratoconjunctivitis
+11625	Pterygium
+5141	Eyelid Diseases
+1763	Blepharoptosis
+7766	Lacrimal Apparatus Diseases
+7767	Lacrimal Duct Obstruction
+7905	Lens Diseases
+2386	Cataract
+7906	Lens Subluxation
+15812	Glaucoma, Angle-Closure
+15858	Anisometropia
+19773	Epiretinal Membrane
+12163	Retinal Detachment
+14603	Uveal Diseases
+14605	Uveitis
+15864	Panuveitis
+14606	Uveitis, Anterior
+11470	Prostatic Hyperplasia
+7172	Erectile Dysfunction
+6869	Hydronephrosis
+9393	Nephritis
+5921	Glomerulonephritis
+53040	Nephrolithiasis
+12078	Renal Artery Obstruction
+14511	Uremia
+14515	Ureteral Diseases
+53039	Ureterolithiasis
+14514	Ureteral Calculi
+14522	Urethral Diseases
+14524	Urethral Obstruction
+14525	Urethral Stricture
+1748	Urinary Bladder Neck Obstruction
+3556	Cystitis
+18856	Cystitis, Interstitial
+14718	Vesico-Ureteral Reflux
+14550	Urinary Incontinence, Stress
+5184	Fallopian Tube Diseases
+4715	Endometriosis
+14627	Vaginitis
+14848	Vulvovaginitis
+14847	Vulvitis
+16640	Diabetes, Gestational
+46110	Hypertension, Pregnancy-Induced
+4461	Eclampsia
+1946	Breech Presentation
+4420	Dystocia
+16104	Oligohydramnios
+11249	Pregnancy Complications, Cardiovascular
+4619	Embolism, Amniotic Fluid
+11250	Pregnancy Complications, Hematologic
+49188	Prenatal Injuries
+11297	Prenatal Exposure Delayed Effects
+7775	Lactation Disorders
+6343	Heart Septal Defects
+18636	Hypoplastic Left Heart Syndrome
+13771	Tetralogy of Fallot
+1919	Bradycardia
+8133	Long QT Syndrome
+13610	Tachycardia
+13617	Tachycardia, Supraventricular
+14693	Ventricular Fibrillation
+2303	Cardiac Output, Low
+9202	Cardiomyopathies
+2312	Cardiomyopathy, Hypertrophic
+4696	Endocarditis
+16757	Death, Sudden, Cardiac
+54143	Heart Failure, Systolic
+1024	Aortic Valve Stenosis
+1020	Aortic Stenosis, Subvalvular
+8944	Mitral Valve Insufficiency
+54058	Acute Coronary Syndrome
+23921	Coronary Stenosis
+10493	Pericarditis
+18754	Ventricular Dysfunction
+18487	Ventricular Dysfunction, Left
+14694	Ventricular Outflow Obstruction
+784	Aneurysm, Dissecting
+17544	Aortic Aneurysm, Abdominal
+17545	Aortic Aneurysm, Thoracic
+7383	Intermittent Claudication
+4617	Embolism
+4618	Embolism, Air
+6940	Hyperemia
+7022	Hypotension
+13789	Thalassemia
+17086	beta-Thalassemia
+751	Anemia, Neonatal
+5330	Fetofetal Transfusion
+25861	Blood Coagulation Disorders, Inherited
+6467	Hemophilia A
+20147	Coagulation Protein Disorders
+1796	Blood Protein Disorders
+10265	Paraproteinemias
+1855	Bone Marrow Diseases
+9190	Myelodysplastic Syndromes
+7960	Leukocyte Disorders
+4802	Eosinophilia
+17681	Hypereosinophilic Syndrome
+15	Abnormalities, Multiple
+25063	Chromosome Disorders
+7566	Jaundice, Chronic Idiopathic
+8052	Lipid Metabolism, Inborn Errors
+6938	Hyperlipoproteinemia Type II
+1720	Birth Injuries
+51556	Hyperbilirubinemia, Neonatal
+7567	Jaundice, Neonatal
+7235	Infant, Premature, Diseases
+12595	Scleroderma, Systemic
+17449	Dermatitis, Allergic Contact
+17445	Skin Diseases, Vascular
+3668	Pressure Ulcer
+471	Alkalosis
+49914	DNA Repair-Deficiency Disorders
+6943	Hyperglycemia
+6946	Hyperinsulinism
+7333	Insulin Resistance
+24821	Metabolic Syndrome X
+6951	Hyperlipoproteinemias
+14973	Xanthomatosis
+5494	Folic Acid Deficiency
+14806	Vitamin B 12 Deficiency
+14808	Vitamin D Deficiency
+9767	Obesity, Morbid
+3926	Diabetic Coma
+6944	Hyperglycemic Hyperosmolar Nonketotic Coma
+6961	Hyperparathyroidism
+6962	Hyperparathyroidism, Secondary
+6980	Hyperthyroidism
+7037	Hypothyroidism
+16736	Antiphospholipid Syndrome
+18876	Environmental Illness
+6968	Hypersensitivity, Delayed
+707	Anaphylaxis
+382	Agricultural Workers' Diseases
+435	Alcoholic Intoxication
+2189	Marijuana Abuse
+13375	Substance Withdrawal Syndrome
+673	Amputation, Traumatic
+1134	Arm Injuries
+5543	Forearm Injuries
+11885	Radius Fractures
+12784	Shoulder Fractures
+14954	Wrist Injuries
+16103	Spinal Fractures
+8446	Maxillofacial Injuries
+4332	Drowning
+15701	Near Drowning
+5264	Femoral Fractures
+6620	Hip Fractures
+5597	Fractures, Open
+3100	Colles' Fracture
+25981	Hip Injuries
+22125	Lacerations
+13708	Tendon Injuries
+4240	Diverticulum
+4936	Diverticulum, Esophageal
+16672	Zenker Diverticulum
+5146	Facial Asymmetry
+6555	Hernia, Ventral
+6548	Hernia, Diaphragmatic
+6551	Hernia, Hiatal
+1201	Ascites
+4198	Disease Susceptibility
+20022	Genetic Predisposition to Disease
+35583	Rare Diseases
+16063	Blood Loss, Surgical
+19106	Postoperative Hemorrhage
+12771	Shock, Hemorrhagic
+18746	Systemic Inflammatory Response Syndrome
+9336	Necrosis
+9410	Nerve Degeneration
+11475	Prosthesis Failure
+1836	Body Weight Changes
+15431	Weight Loss
+20567	Fetal Weight
+3490	Cyanosis
+6337	Heart Murmurs
+19584	Hot Flashes
+19591	Pseudophakia
+9608	Nitrous Acid
+17976	Phosphorus Acids
+10756	Phosphoric Acids
+12824	Silicic Acid
+13451	Sulfonic Acids
+6878	Hydroxides
+17607	Aluminum Compounds
+537	Aluminum Oxide
+538	Aluminum Silicates
+17610	Calcium Compounds
+2130	Calcium Phosphates
+1031	Apatites
+6882	Hydroxyapatites
+17886	Durapatite
+9573	Nitrites
+10710	Phosphates
+6219	Halogens
+7455	Iodine
+10758	Phosphorus
+8903	Minerals
+17640	Silicates
+12822	Silicon Dioxide
+30421	Peroxynitrous Acid
+26361	Reactive Nitrogen Species
+17553	Phosphorus Compounds
+17680	Potassium Compounds
+17655	Silicon Compounds
+4983	Ethanolamines
+420	Albuterol
+4837	Epinephrine
+813	Anilides
+83	Acetanilides
+82	Acetaminophen
+2045	Bupivacaine
+2505	Cephacetrile
+2439	Cefotaxime
+2444	Cefuroxime
+18170	Sumatriptan
+1679	Biogenic Amines
+15306	Biogenic Monoamines
+2395	Catecholamines
+14363	Tryptamines
+5021	Ethylamines
+10627	Phenethylamines
+1391	Azo Compounds
+14343	Trypan Blue
+179	Acrylates
+3487	Cyanoacrylates
+2088	Butyric Acids
+2995	Clofibric Acid
+15248	Gemfibrozil
+14631	Valerates
+10421	Pentanoic Acids
+20185	Benzoic Acids
+19817	Benzoic Acid
+1565	Benzoates
+6883	Hydroxybenzoic Acids
+12461	Salicylic Acids
+1241	Aspirin
+6880	Hydroxy Acids
+4987	Ethers
+5019	Ethyl Ethers
+4986	Ether, Ethyl
+6839	Hydrocarbons, Acyclic
+475	Alkenes
+11090	Polyenes
+2338	Carotenoids
+12176	Retinoids
+14801	Vitamin A
+6840	Hydrocarbons, Alicyclic
+3516	Cycloparaffins
+3510	Cyclohexanes
+53138	Cyclohexenes
+7649	Ketamine
+8148	Lovastatin
+19821	Simvastatin
+9282	Naphthalenesulfonates
+10616	Phenanthrenes
+13729	Terpenes
+8692	Methadyl Acetate
+9570	Nitriles
+4164	Diphosphonates
+12524	Sarin
+15742	Propofol
+17739	Arylsulfonic Acids
+1190	Arylsulfonates
+13846	Thiepins
+13841	Thiazepines
+3987	Dibenzothiazepines
+7540	Isonipecotic Acids
+8614	Meperidine
+10875	Pipecolic Acids
+53610	Opiate Alkaloids
+9019	Morphinans
+2047	Buprenorphine
+11720	Pyrazoles
+15772	4,5-Dihydro-1-(3-(trifluoromethyl)phenyl)-1H-pyrazol-3-amine
+11758	Pyrroles
+45725	Tetrapyrroles
+1654	Bile Pigments
+1663	Bilirubin
+11714	Pyrans
+4095	Dihydropyridines
+9543	Nifedipine
+1578	Benzopyrans
+3374	Coumarins
+15110	4-Hydroxycoumarins
+14859	Warfarin
+7211	Indoles
+8550	Melatonin
+11621	Pteridines
+11622	Pterins
+5492	Folic Acid
+11799	Quinazolines
+11224	Prazosin
+17257	Ramipril
+47028	Macrocyclic Compounds
+1647	Bile Acids and Salts
+4962	Estranes
+4963	Estrenes
+15735	Mifepristone
+12632	Secosteroids
+14807	Vitamin D
+1704	Biopolymers
+5936	Glucans
+2482	Cellulose
+10281	Parathyroid Hormone
+10909	Pituitary Hormones, Posterior
+10121	Oxytocin
+17766	Acid Anhydride Hydrolases
+251	Adenosine Triphosphatases
+254	Sodium-Potassium-Exchanging ATPase
+6026	Glycoside Hydrolases
+681	Amylases
+10960	Plasminogen Activators
+10959	Tissue Plasminogen Activator
+14166	Transferases
+10770	Phosphotransferases
+17853	Phosphotransferases (Alcohol Group Acceptor)
+11494	Protein Kinases
+17346	Protein-Serine-Threonine Kinases
+20928	Mitogen-Activated Protein Kinases
+48049	Extracellular Signal-Regulated MAP Kinases
+19950	Mitogen-Activated Protein Kinase 1
+48052	Mitogen-Activated Protein Kinase 3
+38461	Proline-Directed Protein Kinases
+11505	Protein-Tyrosine Kinases
+20794	Receptor Protein-Tyrosine Kinases
+40262	Receptors, Vascular Endothelial Growth Factor
+40301	Vascular Endothelial Growth Factor Receptor-2
+6001	Glycoconjugates
+6020	Glycopeptides
+17334	Teicoplanin
+6023	Glycoproteins
+11134	Polysaccharides
+6025	Glycosaminoglycans
+6493	Heparin
+6820	Hyaluronic Acid
+5223	Fats
+4041	Dietary Fats
+5217	Fat Emulsions, Intravenous
+5232	Fatty Acids, Volatile
+6538	Heptanoic Acids
+8074	Lipoproteins
+8077	Lipoproteins, LDL
+8078	Cholesterol, LDL
+36341	Intercellular Signaling Peptides and Proteins
+16207	Cytokines
+16298	Hematopoietic Cell Growth Factors
+3115	Colony-Stimulating Factors
+16178	Granulocyte-Macrophage Colony-Stimulating Factor
+7372	Interferons
+7370	Interferon Type I
+15379	Interferon Type I, Recombinant
+15381	Interferon Alfa-2b
+16898	Interferon-alpha
+47908	Intracellular Signaling Peptides and Proteins
+5169	Factor VIII
+6454	Hemoglobins
+10108	Oxyhemoglobins
+907	Antibodies, Bacterial
+15480	Deltaretrovirus Antibodies
+15483	HIV Antibodies
+1323	Autoantibodies
+17152	Antibodies, Antiphospholipid
+17153	Antibodies, Anticardiolipin
+16682	Lupus Coagulation Inhibitor
+7132	Immunoglobulin Isotypes
+7074	Immunoglobulin G
+7075	Immunoglobulin M
+2352	Carrier Proteins
+26901	Membrane Transport Proteins
+7473	Ion Channels
+18118	Chloride Channels
+19005	Cystic Fibrosis Transmembrane Conductance Regulator
+16623	Ion Pumps
+17920	Antiporters
+27682	Cation Transport Proteins
+17494	Proton Pumps
+8562	Membrane Glycoproteins
+15815	Cell Adhesion Molecules
+2272	Carcinoembryonic Antigen
+6420	Hemeproteins
+5914	Globins
+8565	Membrane Proteins
+11956	Receptors, Cell Surface
+17982	Receptors, Biogenic Amine
+17983	Receptors, Catecholamine
+11941	Receptors, Adrenergic
+11943	Receptors, Adrenergic, beta
+18343	Receptors, Adrenergic, beta-2
+43562	Receptors, G-Protein-Coupled
+11957	Receptors, Opioid
+17981	Receptors, Neurotransmitter
+18013	Receptors, Neuropeptide
+18000	Receptors, Peptide
+17978	Receptors, Growth Factor
+11994	Recombinant Proteins
+12263	Ribonucleosides
+12254	Ribavirin
+4365	Drugs, Chinese Herbal
+22283	Herpesvirus Vaccines
+19433	Chickenpox Vaccine
+23321	Poliovirus Vaccines
+11055	Poliovirus Vaccine, Oral
+3102	Colloids
+4655	Emulsions
+12906	Smoke
+14028	Tobacco Smoke Pollution
+8506	Medical Waste
+17744	Medical Waste Disposal
+943	Antigens, Differentiation
+15703	Antigens, CD
+18952	Antigens, CD34
+19774	Blood Coagulation Factor Inhibitors
+10860	Pigments, Biological
+14014	Tissue Adhesives
+4304	Dosage Forms
+19999	Pharmaceutical Solutions
+16568	Drugs, Generic
+4366	Nonprescription Drugs
+55553	Prescription Drugs
+12996	Solutions
+924	Anticholesteremic Agents
+19161	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+2614	Chelating Agents
+7502	Iron Chelating Agents
+4791	Enzyme Inhibitors
+2800	Cholinesterase Inhibitors
+16861	Cyclooxygenase Inhibitors
+16859	Lipoxygenase Inhibitors
+11480	Protease Inhibitors
+806	Angiotensin-Converting Enzyme Inhibitors
+18678	Cholinergic Agents
+18680	Cholinergic Antagonists
+18490	Serotonin Agents
+17366	Serotonin Agonists
+18681	Anesthetics, General
+18685	Anesthetics, Inhalation
+18686	Anesthetics, Intravenous
+778	Anesthetics, Dissociative
+779	Anesthetics, Local
+7004	Hypoglycemic Agents
+9125	Muscle Relaxants, Central
+9292	Narcotic Antagonists
+19	Abortifacient Agents
+21	Abortifacient Agents, Steroidal
+3281	Contraceptives, Postcoital
+3283	Contraceptives, Postcoital, Synthetic
+7917	Leprostatic Agents
+935	Antifungal Agents
+44966	Anti-Retroviral Agents
+19380	Anti-HIV Agents
+889	Anti-Arrhythmia Agents
+928	Antidepressive Agents
+897	Anti-Ulcer Agents
+1802	Blood Substitutes
+3029	Coagulants
+10975	Platelet Aggregation Inhibitors
+19141	Respiratory System Agents
+18927	Anti-Asthmatic Agents
+4396	Coloring Agents
+19275	Radiopharmaceuticals
+393	Air Pollutants
+38361	Neuronavigation
+11857	Radiographic Image Interpretation, Computer-Assisted
+49268	Positron-Emission Tomography
+23881	Colonography, Computed Tomographic
+36542	Tomography, Spiral Computed
+21621	Imaging, Three-Dimensional
+46169	Dermoscopy
+10784	Photomicrography
+2533	Cerebral Angiography
+7047	Hysterosalpingography
+13382	Subtraction Technique
+41622	Tomography, Optical
+41623	Tomography, Optical Coherence
+18618	Echocardiography, Doppler, Color
+25401	Echocardiography, Stress
+17548	Echocardiography, Transesophageal
+19160	Endosonography
+18615	Ultrasonography, Doppler, Color
+16217	Ultrasonography, Mammary
+18660	Blood Pressure Monitoring, Ambulatory
+1450	Ballistocardiography
+2302	Cardiac Output
+13318	Stroke Volume
+15148	Cardiotocography
+22062	Electrophysiologic Techniques, Cardiac
+17115	Catheter Ablation
+4945	Esophagoscopy
+15190	Blood Glucose Self-Monitoring
+5323	Fetal Monitoring
+15907	Hysteroscopy
+15193	Chorionic Villi Sampling
+5332	Fetoscopy
+53483	Eye Movement Measurements
+6068	Gonioscopy
+15351	Vision Screening
+14794	Visual Fields
+10499	Perimetry
+1301	Audiometry, Pure-Tone
+38781	Otoscopy
+19296	Capnography
+8170	Lung Compliance
+11659	Pulmonary Gas Exchange
+14692	Ventilation-Perfusion Ratio
+44963	Biopsy, Fine-Needle
+21701	Sentinel Lymph Node Biopsy
+3558	Cystoscopy
+44583	Neuroendoscopy
+20775	Thoracic Surgery, Video-Assisted
+18666	Ureteroscopy
+35041	Anonymous Testing
+17286	Polysomnography
+13686	Telemetry
+12885	Skinfold Thickness
+51517	Digital Rectal Examination
+10858	Pigmentation
+12880	Skin Pigmentation
+7428	Intradermal Tests
+42241	Early Diagnosis
+55088	Early Detection of Cancer
+33162	Incidental Findings
+7958	Leukocyte Count
+9996	Osmotic Fragility
+11309	Preservation, Biological
+15925	Cryopreservation
+14021	Tissue Preservation
+17218	Cordocentesis
+15390	Gastric Bypass
+17713	Platelet Transfusion
+7165	Immunosuppression
+3888	Desensitization, Immunologic
+2425	Cautery
+4564	Electrocoagulation
+16740	Meridians
+15669	Acupuncture Points
+16488	Medicine, African Traditional
+20835	Medicine, Kampo
+8602	Mental Healing
+19222	Mind-Body Relations (Metaphysics)
+19124	Therapeutic Touch
+26882	Manipulation, Chiropractic
+26301	Manipulation, Osteopathic
+20393	Manipulation, Spinal
+29221	Faith Healing
+8273	Magic
+9781	Occultism
+13653	Tattooing
+17679	Cryotherapy
+23801	Directly Observed Therapy
+18890	Chemoprevention
+19072	Antibiotic Prophylaxis
+7262	Infusions, Intravenous
+7270	Injections, Intra-Articular
+7273	Injections, Intramuscular
+4359	Drug Therapy, Combination
+23241	Antiretroviral Therapy, Highly Active
+18718	Home Infusion Therapy
+19338	Polypharmacy
+46690	Deep Brain Stimulation
+22561	Advanced Cardiac Life Support
+46128	Fetal Therapies
+16461	Chemoembolization, Therapeutic
+16558	Hemostasis, Endoscopic
+6488	Hemostasis, Surgical
+9910	Oral Hygiene
+6979	Hyperthermia, Induced
+48988	Corneal Surgery, Laser
+20731	Keratomileusis, Laser In Situ
+18903	Photorefractive Keratectomy
+14676	Diet, Vegetarian
+10359	Patient Readmission
+7430	Intraoperative Care
+1918	Brachytherapy
+16634	Radiosurgery
+20266	Radiotherapy, Conformal
+50397	Radiotherapy, Intensity-Modulated
+12048	Rehabilitation of Hearing Impaired
+8369	Manual Communication
+12813	Sign Language
+44363	Contraception, Postcoital
+27724	Reproductive Techniques, Assisted
+4624	Embryo Transfer
+5307	Fertilization in Vitro
+20554	Sperm Injections, Intracytoplasmic
+45422	Continuous Positive Airway Pressure
+7385	Intermittent Positive-Pressure Ventilation
+6464	Hemoperfusion
+11880	Radiotherapy Planning, Computer-Assisted
+25321	Surgery, Computer-Assisted
+698	Analgesia
+15360	Analgesia, Epidural
+16362	Analgesia, Obstetrical
+771	Anesthesia, Intravenous
+54810	Deep Sedation
+14696	Ventriculostomy
+5763	Gastroenterostomy
+19918	Heart Valve Prosthesis Implantation
+47549	Coronary Artery Bypass, Off-Pump
+19917	Blood Vessel Prosthesis Implantation
+17128	Embolectomy
+23821	Limb Salvage
+16748	Venous Cutdown
+3646	Debridement
+20878	Device Removal
+3082	Colectomy
+16737	Proctocolectomy, Restorative
+4766	Enterostomy
+5743	Gastrectomy
+6498	Hepatectomy
+16577	Pancreaticoduodenectomy
+16105	Parathyroidectomy
+2315	Cardiopulmonary Bypass
+7432	Intraoperative Period
+37981	Neck Dissection
+8408	Mastectomy
+15412	Mastectomy, Segmental
+15580	Mohs Surgery
+14710	Version, Fetal
+3399	Craniotomy
+11612	Psychosurgery
+13238	Stereotaxic Techniques
+14207	Trephining
+19882	Blepharoplasty
+19923	Capsulorhexis
+19654	Lens Implantation, Intraocular
+14821	Vitrectomy
+19645	Arthroplasty, Replacement, Knee
+17586	Diskectomy
+5592	Fracture Fixation
+5593	Fracture Fixation, Internal
+13907	Thoracostomy
+7825	Laryngectomy
+9225	Myringoplasty
+14433	Tympanoplasty
+44964	Cervicoplasty
+11013	Pneumonectomy
+13934	Thymectomy
+46148	Donor Selection
+17690	Cell Transplantation
+33581	Stem Cell Transplantation
+36102	Peripheral Blood Stem Cell Transplantation
+16026	Bone Marrow Transplantation
+16038	Skin Transplantation
+15653	Cystectomy
+20728	Transurethral Resection of Prostate
+1931	Brain Mapping
+8163	Luminescent Measurements
+5470	Fluorometry
+3592	Cytophotometry
+5434	Flow Cytometry
+16707	Tissue Fixation
+8826	Microbial Sensitivity Tests
+5215	Fasting
+55808	Drug Discovery
+15195	Drug Design
+4353	Drug Evaluation, Preclinical
+18806	APACHE
+17567	Karnofsky Performance Status
+8017	Life Expectancy
+18563	Disease Notification
+16015	Logistic Models
+17059	Models, Econometric
+8390	Markov Chains
+13269	Stochastic Processes
+16022	Case-Control Studies
+16036	Seroepidemiologic Studies
+15528	HIV Seroprevalence
+17321	Clinical Trials, Phase I as Topic
+5240	Feasibility Studies
+16033	Intervention Studies
+12494	Sampling Studies
+15203	Reproducibility of Results
+18401	Sample Size
+4867	Equipment Design
+4868	Equipment Failure
+5818	Genetic Engineering
+21141	Nucleic Acid Amplification Techniques
+16133	Polymerase Chain Reaction
+10375	Pedigree
+33281	Nontherapeutic Human Experimentation
+7441	Intubation, Gastrointestinal
+8959	Models, Neurological
+16294	Models, Nursing
+10812	Physical Stimulation
+10775	Photic Stimulation
+11829	Radiation Dosage
+4348	Drug Labeling
+4349	Drug Packaging
+19112	Teleradiology
+16321	Dental Care for Aged
+19140	Dental Care for Children
+19232	Dental Restoration Failure
+20680	Bronchoscopes
+20685	Colonoscopes
+20694	Sigmoidoscopes
+20701	Esophagoscopes
+20709	Ureteroscopes
+55615	Electrical Equipment and Supplies
+11211	Electric Power Supplies
+4566	Electrodes
+47548	Defibrillators
+17147	Defibrillators, Implantable
+4567	Electrodes, Implanted
+55617	Micro-Electrical-Mechanical Systems
+15370	Infant Equipment
+36501	Metered Dose Inhalers
+54018	Lasers, Excimer
+53844	Lasers, Solid-State
+19047	Phantoms, Imaging
+20341	Absorbable Implants
+1860	Bone Plates
+1863	Bone Screws
+9998	Ossicular Prosthesis
+15607	Stents
+53825	Suburethral Slings
+17575	Gloves, Protective
+5932	Gloves, Surgical
+17768	Skin, Artificial
+15505	Chest Tubes
+2183	Canes
+9984	Orthopedic Fixation Devices
+13165	Splints
+14962	X-Ray Film
+14963	X-Ray Intensifying Screens
+30141	Feedback, Psychological
+5247	Feeding Behavior
+19221	Mandatory Reporting
+35642	Whistleblowing
+33181	Information Dissemination
+3448	Crying
+7845	Laughter
+11406	Propaganda
+5106	Exploratory Behavior
+55118	Medication Adherence
+7175	Impulsive Behavior
+3192	Compulsive Behavior
+16739	Behavior, Addictive
+40242	Risk Reduction Behavior
+3380	Courtship
+32981	Dehumanization
+32821	Commodification
+12932	Social Facilitation
+13037	Spatial Behavior
+3441	Crowding
+10550	Personal Space
+2668	Child Rearing
+5201	Fantasy
+1887	Boredom
+8149	Love
+40821	Human Characteristics
+7804	Language Development
+16743	Mental Competency
+16901	Intergenerational Relations
+8425	Maternal Behavior
+18454	Spouses
+24802	Nurse's Role
+26706	Paternalism
+32882	Comprehension
+19545	Intuition
+21641	Recognition (Psychology)
+12056	Reinforcement, Social
+14706	Verbal Learning
+4538	Eidetic Imagery
+3118	Color Perception
+14836	Volition
+1527	Behaviorism
+5086	Existentialism
+7602	Jungian Theory
+1841	Bonding, Human-Pet
+19455	Self Psychology
+37001	Directive Counseling
+12731	Sex Counseling
+3417	Criminal Psychology
+14851	Wakefulness
+1844	Bone Conduction
+11434	Proprioception
+12894	Sleep Stages
+29181	Spirituality
+275	Adjustment Disorders
+16584	Panic Disorder
+40701	Stress Disorders, Traumatic, Acute
+4213	Dissociative Disorders
+19955	Conduct Disorder
+20817	Asperger Syndrome
+19957	Motor Skills Disorders
+3865	Depressive Disorder, Major
+19263	Dysthymic Disorder
+16574	Seasonal Affective Disorder
+14189	Transsexualism
+7298	Insanity Defense
+35	Abreaction
+2399	Catharsis
+19546	Couples Therapy
+13718	Tensile Strength
+13997	Time Factors
+6019	Glycolysis
+4260	DNA Repair
+9435	Synaptic Transmission
+1692	Biological Transport
+15657	Respiratory Transport
+4734	Energy Metabolism
+50356	Lipid Metabolism
+53858	Metabolic Networks and Pathways
+18384	Oxidative Stress
+12084	Renin-Angiotensin System
+16923	Cell Death
+17209	Apoptosis
+40342	Genetic Structures
+16678	Genome
+15894	Genome, Human
+5838	Genotype
+12744	Sex Ratio
+18407	Bacterial Physiological Phenomena
+24881	Drug Resistance, Bacterial
+18440	beta-Lactam Resistance
+10403	Penicillin Resistance
+16106	Methicillin Resistance
+24901	Drug Resistance, Multiple, Bacterial
+4435	Eating
+9751	Nutritional Requirements
+9752	Nutritional Status
+18432	Drug Resistance, Multiple
+2979	Climacteric
+8593	Menopause
+7746	Labor Presentation
+7745	Labor Onset
+7747	Labor Stage, First
+7749	Labor Stage, Third
+47929	Term Birth
+46468	Sexual Development
+14553	Urinary Tract Physiological Phenomena
+55702	Urinary Tract Physiological Processes
+12079	Renal Circulation
+14563	Urodynamics
+13152	Splanchnic Circulation
+14664	Vasodilation
+9200	Myocardial Contraction
+3971	Diastole
+16276	Ventricular Function
+16277	Ventricular Function, Left
+14690	Venous Pressure
+14654	Vascular Patency
+5769	Gastrointestinal Motility
+16138	Walking
+9119	Muscle Contraction
+9126	Muscle Relaxation
+6789	Host vs Graft Reaction
+6084	Graft Rejection
+16867	Immunocompromised Host
+55928	Skin Physiological Processes
+15595	Skin Aging
+7429	Intraocular Pressure
+55691	Ecological and Environmental Processes
+55907	Climatic Processes
+55867	Cyclones
+12914	Snow
+531	Altitude
+388	Air
+20378	Confined Spaces
+53443	Visible Human Projects
+719	Anatomy, Veterinary
+40901	Proteomics
+10598	Pharmacognosy
+29001	Herbal Medicine
+49490	Systems Biology
+18559	Exobiology
+7756	Laboratory Animal Science
+19021	Natural History
+18462	Photobiology
+54849	Cardiac Electrophysiology
+17891	Pharmacoepidemiology
+2625	Chemistry, Organic
+36103	Nanotechnology
+50997	Nanomedicine
+36301	Qualitative Research
+26881	Acupuncture
+26761	Physical Therapy (Specialty)
+18865	Dental Research
+55416	Evidence-Based Emergency Medicine
+33441	Andrology
+54597	Disaster Medicine
+49429	Forensic Pathology
+55048	Integrative Medicine
+55552	Infectious Disease Medicine
+9027	Mortuary Practice
+15399	Nursing Research
+15402	Nursing Education Research
+9773	Obstetrical Nursing
+19145	Rehabilitation Nursing
+16746	Transcultural Nursing
+53198	Child Nutrition Sciences
+10341	Pathology, Veterinary
+14731	Veterinary Service, Military
+18645	Greek World
+16709	Yin-Yang
+13483	Superstitions
+17281	Cost of Illness
+11902	Rape
+23481	Terrorism
+23482	Bioterrorism
+51337	Chemical Terrorism
+47851	September 11 Terrorist Attacks
+14858	War Crimes
+17767	Holocaust
+3416	Criminal Law
+54624	Health Status Disparities
+17678	Sex Distribution
+30861	Capitalism
+54547	National Cancer Institute (U.S.)
+55825	National Institute of Neurological Disorders and Stroke
+14488	United States Health Resources and Services Administration
+9111	Local Government
+11177	Postal Service
+54521	Cultural Competency
+300	Adoption
+22126	Access to Information
+46269	Reproductive Rights
+35881	Compensation and Redress
+35521	Supreme Court Decisions
+3209	Concentration Camps
+2958	City Planning
+7229	Infant Welfare
+40381	Education, Public Health Professional
+1334	Automobile Driving
+6693	Holidays
+18910	Video Games
+3612	Dairying
+40241	Social Marketing
+55818	Public-Private Sector Partnerships
+3247	Conservation of Natural Resources
+5511	Food Handling
+3296	Cookery
+5523	Food Supply
+19064	Product Packaging
+19460	Tobacco Industry
+20811	Biomedical Technology
+8904	Miniaturization
+1336	Automobiles
+30841	Food, Genetically Modified
+12613	Sculpture
+28744	Ethics Committees, Research
+28723	Personhood
+47789	World War II
+49674	History, 21st Century
+9229	Mythology
+1255	Astrology
+33421	Beginning of Human Life
+26712	Value of Life
+2016	Buddhism
+33003	Eastern Orthodoxy
+12071	Religion and Sex
+12072	Religious Philosophies
+13140	Spiritualism
+1868	Book Collecting
+15277	Hotlines
+34742	Electronic Mail
+6236	Handwriting
+10700	Phonetics
+4882	Erotica
+18966	Library Materials
+15706	Bibliometrics
+55811	Journal Impact Factor
+4690	Encyclopedias as Topic
+5569	Formularies as Topic
+5572	Formularies, Hospital
+10602	Pharmacopoeias as Topic
+55539	MP3-Player
+40421	Cellular Phone
+49269	Videoconferencing
+51188	Knowledge Bases
+16288	Computer Terminals
+34201	Computers, Handheld
+12815	Signal Processing, Computer-Assisted
+49250	Speech Recognition Software
+40442	Public Health Informatics
+46609	Libraries, Digital
+39702	Current Procedural Terminology
+49228	Healthcare Common Procedure Coding System
+38801	International Classification of Diseases
+13358	Subject Headings
+46650	Medical Subject Headings
+30541	Databases, Genetic
+50316	Medical Order Entry Systems
+35081	Editorial Policies
+15714	Plagiarism
+17594	Publication Bias
+19986	Hearing Impaired Persons
+28642	Mentally Ill Persons
+19987	Visually Impaired Persons
+54242	Emigrants and Immigrants
+33062	Friends
+18577	Homebound Persons
+7872	Legal Guardians
+19727	Proxy
+3726	Dental Assistants
+10370	Pediatric Assistants
+54814	Anatomists
+40441	Health Educators
+55360	Osteopathic Physicians
+18634	Veterinarians
+33241	Lawyers
+18912	Arabs
+40443	Students, Public Health
+19520	Living Donors
+14789	Visitors to Patients
+35862	Vulnerable Populations
+20415	Personnel Downsizing
+20446	Fitness Centers
+289	Admitting Department, Hospital
+6797	Housekeeping, Hospital
+9684	Nuclear Medicine Department, Hospital
+18584	Physician Self-Referral
+8510	Medication Systems, Hospital
+6770	Hospitals, Group Practice
+40561	Assisted Living Facilities
+19372	Orphanages
+40361	Healthy People Programs
+3157	Community Pharmacy Services
+17589	Immunization Programs
+4631	Emergency Medical Service Communication Systems
+19564	Unnecessary Procedures
+55695	Electronic Prescribing
+6796	Housekeeping
+17850	Economics, Pharmaceutical
+67	Accounts Payable and Receivable
+10350	Patient Credit and Collection
+3164	Competitive Bidding
+20416	Outsourced Services
+7344	Insurance Claim Reporting
+7345	Insurance Claim Review
+19458	Insurance Coverage
+7357	Insurance, Physician Services
+20406	Medicare Payment Advisory Commission
+19982	Organizational Case Studies
+12011	Red Cross
+15969	Institute of Medicine (U.S.)
+8604	Mental Health Associations
+26683	Advisory Committees
+13218	State Dentistry
+32802	Committee Membership
+3659	Decision Making, Organizational
+8509	Medication Systems
+11332	Privatization
+10558	Personnel Loyalty
+20443	Practice Valuation and Purchase
+20793	Gatekeeping
+9736	Nursing Process
+9730	Nursing Assessment
+9733	Nursing Diagnosis
+19091	Critical Pathways
+11383	Progressive Patient Care
+39602	After-Hours Care
+54625	Healthcare Disparities
+19239	Dentist's Practice Patterns
+19984	Quality Indicators, Health Care
+55812	Community-Based Participatory Research
+15983	Selection Bias
+15987	Effect Modifiers (Epidemiology)
+18635	Rescue Work
+389	Air Conditioning
+8021	Life Support Systems
+8029	Lighting
+58	Accidental Falls
+2353	Carrier State
+3257	Consumer Product Safety
+397	Air Pollution
+55361	Multilevel Analysis
+12037	Refuse Disposal
+18505	Waste Management
