@@ -1,0 +1,16 @@
+<%= link_to_unless_current("MeSH", treemap_path) %>
+
+<% unless @tree.nil? %>
+  <% for a in @tree.ancestors %>
+    <%= link_to(a.subject.term, treemap_path(:id => a.id)) %>
+  <% end %>
+
+<%= @tree.subject.term %>
+<% end %>
+<ul>
+<% for t in MeshTree.children(@tree_id) %>
+  <% unless t.subject.nil? %>
+  <li><%= link_to(t.subject.term, treemap_path(:id => t.id)) %></li>
+  <% end %>
+<% end %>
+</ul>
