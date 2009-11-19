@@ -6,6 +6,10 @@ class MeshTree < ActiveRecord::Base
     MeshTree.find_all_by_parent_id(parent_id, :include => [:subject => :subject_stats], :order => :id)
   end
   
+  def children
+    MeshTree.find_all_by_parent_id(id, :include => [:subject => :subject_stats], :order => :id)
+  end
+
   def ancestors
     current = self
     ancestor = []

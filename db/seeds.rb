@@ -5,11 +5,11 @@
 #   
 #   cities = City.create([{ :name => 'Chicago' }, { :name => 'Copenhagen' }])
 #   Major.create(:name => 'Daley', :city => cities.first)
-subjects_file = File.join(File.dirname(__FILE__), 'subjects.dat')
+subjects_file = File.join(File.dirname(__FILE__), 'desc.txt')
 if File.stat(subjects_file).size > 0  
   File.foreach(subjects_file) do |record|
     s = Subject.new
-    s.id, s.term = record.chomp.split("\t")
+    s.id, s.term, trees = record.chomp.split("\t")
     s.save!
   end
 end
