@@ -1,6 +1,7 @@
 class MeshTree < ActiveRecord::Base
   belongs_to :subject
   belongs_to :parent, :class_name => "MeshTree", :foreign_key => :parent_id
+  has_many :subject_stats, :through => :subject
   
   def self.children(parent_id = nil)
     MeshTree.find_all_by_parent_id(parent_id, :include => [:subject => :subject_stats], :order => :id)
