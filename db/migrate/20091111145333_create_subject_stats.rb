@@ -7,6 +7,7 @@ class CreateSubjectStats < ActiveRecord::Migration
       t.integer :descendant_count, :default => 0
     end
     add_index :subject_stats, [:subject_id, :year]
+    add_index :subject_stats, :year
   end
 
   def self.down

@@ -27,6 +27,7 @@ ActiveRecord::Schema.define(:version => 20091113080743) do
   end
 
   add_index "subject_stats", ["subject_id", "year"], :name => "index_subject_stats_on_subject_id_and_year"
+  add_index "subject_stats", ["year"], :name => "index_subject_stats_on_year"
 
   create_table "subjects", :force => true do |t|
     t.string "term"
