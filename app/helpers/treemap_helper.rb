@@ -38,23 +38,24 @@ module TreemapHelper
     <script type="text/javascript+protovis">
       var tree_id = #{tree_id.to_json}
       #{mesh}
-      var color = pv.Colors.category19().by(function(n) n.keys.slice(0, -1));
+      var color = pv.Colors.category20().by(function(n) n.keys.slice(0, -1) + 3);
+      color = pv.colors("lightgray", "white").by(function(n) n.keys.slice(0, -1))
 
       var vis = new pv.Panel()
         .width(800)
         .height(400);
 
       vis.add(pv.Bar)
-        .extend(pv.Layout.treemap(mesh).root("#{root}").round(true).inset(14, 4, 4, 4))
+        .extend(pv.Layout.treemap(mesh).root("#{root}").round(true).inset(14, 2, 2, 2))
         .width(function(n) n.width - 2)
         .height(function(n) n.height - 2)
         .cursor("pointer")
         .event("click", function(n) top.location = "/treemap/" + tree_id[n.keys[1].replace(/[ ,]+/g, '_')])
         .fillStyle(function(n) color(n))
-        .title(function(n) n.keys[n.keys.length - 1].replace(/[ ,]+/g, '_') + ": " + (n.data || ""))
+        .title(function(n) n.keys[n.keys.length - 1] + ": " + (n.data || ""))
         .anchor("top").add(pv.Label)
         .textStyle(function() "rgba(0,0,0," + this.fillStyle().opacity + ")")
-        .text(function(n) n.keys.length <= 3 ? n.keys[n.keys.length - 1] : "");
+        .text(function(n) n.keys[n.keys.length - 1].length > parseInt(n.width / 9) ? n.keys[n.keys.length - 1].substring(0, parseInt(n.width / 9)) + " ..." : n.keys[n.keys.length - 1]);
       vis.render();
 
     </script>
