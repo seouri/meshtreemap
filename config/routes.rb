@@ -1,6 +1,6 @@
 ActionController::Routing::Routes.draw do |map|
-  map.root :controller => "treemap"
-  map.treemap "treemap/:id", :controller => "treemap"
+  map.root :controller => "treemap", :action => "index", :year => "all", :id => nil
+  map.treemap "treemap/:year/:id", :controller => "treemap", :action => "index", :defaults => {:year => "all", :id => nil}
   # The priority is based upon order of creation: first created -> highest priority.
 
   # Sample of regular route:

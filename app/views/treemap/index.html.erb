@@ -1,3 +1,4 @@
+<%= SubjectStat.years.map {|year| link_to_unless_current(year, treemap_path(:id => @tree_id, :year => year)) }.join(" | ") %>
 <%= treemap(@tree, @year) %>
-<%= link_to_unless_current("MeSH", treemap_path) %>
-<%= treelist(@tree) %>
+<%= link_to_unless_current("MeSH", treemap_path(:year => @year, :id => nil)) %>
+<%= treelist(@tree, @year) %>

@@ -1,11 +1,11 @@
 module TreemapHelper
-  def treelist(tree)
+  def treelist(tree, year = "all")
     if tree.nil?
-      content_tag(:ul, MeshTree.children.map {|c| content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id)), :id => "mesh_tree_id_#{c.id}")}.join("\n"))
+      content_tag(:ul, MeshTree.children.map {|c| content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)), :id => "mesh_tree_id_#{c.id}")}.join("\n"))
     else
-      children = content_tag(:ul, (tree.nil? ? MeshTree : tree).children.map {|c| content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id)), :id => "mesh_tree_id_#{c.id}")}.join("\n"))
+      children = content_tag(:ul, (tree.nil? ? MeshTree : tree).children.map {|c| content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)), :id => "mesh_tree_id_#{c.id}")}.join("\n"))
       current = content_tag(:ul, content_tag(:li, content_tag(:strong, tree.subject.term) + children, :id => "mesh_tree_id_#{tree.id}"))
-      tree.ancestors.reverse.inject(current) {|html, c|  content_tag(:ul, content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id)) + "\n" + html, :id => "mesh_tree_id_#{c.id}"))}
+      tree.ancestors.reverse.inject(current) {|html, c|  content_tag(:ul, content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)) + "\n" + html, :id => "mesh_tree_id_#{c.id}"))}
     end
   end
 
@@ -50,7 +50,7 @@ module TreemapHelper
         .width(function(n) n.width - 2)
         .height(function(n) n.height - 2)
         .cursor("pointer")
-        .event("click", function(n) top.location = "/treemap/" + tree_id[n.keys[1].replace(/[ ,]+/g, '_')])
+        .event("click", function(n) top.location = "/treemap/#{year}/" + tree_id[n.keys[1].replace(/[ ,]+/g, '_')])
         .fillStyle(function(n) color(n))
         .title(function(n) n.keys[n.keys.length - 1] + ": " + (n.data || ""))
         .anchor("top").add(pv.Label)
