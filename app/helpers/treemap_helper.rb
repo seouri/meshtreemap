@@ -42,6 +42,7 @@ module TreemapHelper
       color = pv.colors("lightgray", "white").by(function(n) n.keys.slice(0, -1))
 
       var vis = new pv.Panel()
+        .def("i", -1)
         .width(800)
         .height(400);
 
@@ -51,10 +52,12 @@ module TreemapHelper
         .height(function(n) n.height - 2)
         .cursor("pointer")
         .event("click", function(n) top.location = "/treemap/#{year}/" + tree_id[n.keys[1].replace(/[ ,]+/g, '_')])
-        .fillStyle(function(n) color(n))
+        .event("mouseover", function() vis.i(this.index))
+        .event("mouseout", function() vis.i(-1))
+        .fillStyle(function(n) vis.i() == this.index ? "powderblue" : color(n))
         .title(function(n) n.keys[n.keys.length - 1] + ": " + (n.data || ""))
         .anchor("top").add(pv.Label)
-        .textStyle(function() "rgba(0,0,0," + this.fillStyle().opacity + ")")
+        .textStyle(function(n) vis.i() == this.index ? "black" : "rgba(0,0,0," + this.fillStyle().opacity + ")")
         .text(function(n) n.keys[n.keys.length - 1].length > parseInt(n.width / 9) ? n.keys[n.keys.length - 1].substring(0, parseInt(n.width / 9)) + " ..." : n.keys[n.keys.length - 1]);
       vis.render();
 
