@@ -1,11 +1,11 @@
 module TreemapHelper
   def treelist(tree, year = "all")
     if tree.nil?
-      content_tag(:ul, MeshTree.children.map {|c| content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)), :id => "mesh_tree_id_#{c.id}")}.join("\n"))
+      content_tag(:ul, MeshTree.children.map {|c| content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)), :id => "mesh_tree_#{c.id}")}.join("\n"))
     else
-      children = content_tag(:ul, (tree.nil? ? MeshTree : tree).children.map {|c| content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)), :id => "mesh_tree_id_#{c.id}")}.join("\n"))
-      current = content_tag(:ul, content_tag(:li, content_tag(:strong, tree.subject.term) + children, :id => "mesh_tree_id_#{tree.id}"))
-      tree.ancestors.reverse.inject(current) {|html, c|  content_tag(:ul, content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)) + "\n" + html, :id => "mesh_tree_id_#{c.id}"))}
+      children = content_tag(:ul, tree.children.map {|c| content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)), :id => "mesh_tree_#{c.id}")}.join("\n"))
+      current = content_tag(:ul, content_tag(:li, content_tag(:strong, tree.subject.term) + children, :id => "mesh_tree_#{tree.id}"))
+      tree.ancestors.reverse.inject(current) {|html, c|  content_tag(:ul, content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)) + "\n" + html, :id => "mesh_tree_#{c.id}"))}
     end
   end
 
@@ -19,6 +19,7 @@ module TreemapHelper
       json =  children.to_json
       root = "MeSH"
     else
+      tree_id["parent_node"] = tree.parent_id if tree.parent_id
       tree_id[tree.subject.term.gsub(/[ ,]+/, '_')] = tree.id
       root = tree.subject.term
       ys = tree.subject_stats.year(year)[0]
@@ -43,7 +44,7 @@ module TreemapHelper
 
       var vis = new pv.Panel()
         .def("i", -1)
-        .width(800)
+        .width(663)
         .height(400);
 
       vis.add(pv.Bar)
@@ -51,14 +52,27 @@ module TreemapHelper
         .width(function(n) n.width - 2)
         .height(function(n) n.height - 2)
         .cursor("pointer")
-        .event("click", function(n) top.location = "/treemap/#{year}/" + tree_id[n.keys[1].replace(/[ ,]+/g, '_')])
-        .event("mouseover", function() vis.i(this.index))
+        .event("click", function(n) {
+            var id = ""
+            if (this.index == 0 && tree_id["parent_node"]) {
+              id = tree_id["parent_node"];
+            }
+            if(this.index > 0) {
+              id = tree_id[n.keys[1].replace(/[ ,]+/g, '_')];
+            }
+            top.location = "/treemap/#{year}/" + id;
+          })
+        .event("mouseover", function(n) vis.i(this.index))
         .event("mouseout", function() vis.i(-1))
-        .fillStyle(function(n) vis.i() == this.index ? "powderblue" : color(n))
+        .fillStyle(function(n) vis.i() == this.index && this.index > 0 ? "aliceblue" : color(n))
         .title(function(n) n.keys[n.keys.length - 1] + ": " + (n.data || ""))
         .anchor("top").add(pv.Label)
-        .textStyle(function(n) vis.i() == this.index ? "black" : "rgba(0,0,0," + this.fillStyle().opacity + ")")
-        .text(function(n) n.keys[n.keys.length - 1].length > parseInt(n.width / 9) ? n.keys[n.keys.length - 1].substring(0, parseInt(n.width / 9)) + " ..." : n.keys[n.keys.length - 1]);
+          .font(function(n) this.index == 0 ? "10px sans-serif" : "12px sans-serif")
+          .textStyle(function(n) vis.i() == this.index ? "black" : "rgba(0,0,0," + this.fillStyle().opacity + ")")
+          .text(function(n) n.keys[n.keys.length - 1].length > parseInt(n.width / 9) ? n.keys[n.keys.length - 1].substring(0, parseInt(n.width / 9)) + " ..." : n.keys[n.keys.length - 1])
+          .anchor("bottom").add(pv.Label)
+            .textStyle(function(n) vis.i() == this.index && n.height > 22 ? "green" : "rgba(0, 0, 0, 0)")
+            .text(function(n) this.index > 0 ? n.data : "");
       vis.render();
 
     </script>

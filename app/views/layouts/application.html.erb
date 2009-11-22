@@ -1,8 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<%= javascript_include_tag "protovis-r3.1.js" %>
+  <title>MeSH Treemap</title>
+  <%= javascript_include_tag "protovis-r3.1.js" %>
+  <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.8.0r4/build/reset-fonts-grids/reset-fonts-grids.css&2.8.0r4/build/base/base-min.css">
+  <%= stylesheet_link_tag "default" %>
 </head>
 <body>
-  <%= yield %>
+<div id="doc4" class="yui-t6">
+  <div id="hd" role="banner"><h1>MeSH Treemap</h1></div>
+  <div id="bd" role="main">
+	  <div id="yui-main">
+	    <div class="yui-b">
+	      <div class="yui-g">
+<%= yield :treemap %>
+	      </div><!-- .yui-g -->
+      </div><!-- .yui-b -->
+    </div><!-- .yui-main -->
+    <div class="yui-b">
+<%= yield :treenav %>
+    </div><!-- .yui-b -->
+  </div><!-- #bd -->
+  <div id="ft" role="contentinfo">
+  </div><!-- #ft -->
+</div><!-- #doc4 .yui-t6 -->
 </body>
 </html>

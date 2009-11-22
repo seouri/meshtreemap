@@ -1,4 +1,9 @@
+<% content_for :treemap do %>
 <%= SubjectStat.years.map {|year| link_to_unless_current(year, treemap_path(:id => @tree_id, :year => year)) }.join(" | ") %>
+<p />
 <%= treemap(@tree, @year) %>
-<%= link_to_unless_current("MeSH", treemap_path(:year => @year, :id => nil)) %>
+<% end %>
+<% content_for :treenav do %>
+<%= link_to_unless_current("<strong>MeSH</strong>", treemap_path(:year => @year, :id => nil)) %>
 <%= treelist(@tree, @year) %>
+<% end %>
