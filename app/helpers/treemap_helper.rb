@@ -1,9 +1,9 @@
 module TreemapHelper
   def treelist(tree, year = "all")
     if tree.nil?
-      content_tag(:ul, MeshTree.children.map {|c| content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)), :id => "mesh_tree_#{c.id}")}.join("\n"))
+      content_tag(:ul, MeshTree.children.select {|c| c.subject_stats.year(year)[0].nil? == false && c.subject_stats.year(year)[0].total_count > 0}.map {|c| content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)), :id => "mesh_tree_#{c.id}")}.join("\n"))
     else
-      children = content_tag(:ul, tree.children.map {|c| content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)), :id => "mesh_tree_#{c.id}")}.join("\n"))
+      children = content_tag(:ul, tree.children.select {|c| c.subject_stats.year(year)[0].nil? == false && c.subject_stats.year(year)[0].total_count > 0}.map {|c| content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)), :id => "mesh_tree_#{c.id}")}.join("\n"))
       current = content_tag(:ul, content_tag(:li, content_tag(:strong, tree.subject.term) + children, :id => "mesh_tree_#{tree.id}"))
       tree.ancestors.reverse.inject(current) {|html, c|  content_tag(:ul, content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)) + "\n" + html, :id => "mesh_tree_#{c.id}"))}
     end
