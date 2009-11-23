@@ -1,0 +1,8 @@
+#hd a, #hd a:visited {
+  color: #333;
+  text-decoration: none;
+}
+
+#hd a:hover {
+  text-decoration: underline;
+}
