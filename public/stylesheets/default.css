@@ -1,3 +1,6 @@
+a, a:hover {
+  color: #333;
+}
 #hd a, #hd a:visited {
   color: #333;
   text-decoration: none;
@@ -12,4 +15,8 @@ div#mesh_tree_list > ul {
 }
 #mesh_tree_list ul {
   margin: 0 0 0 1.5em;
+}
+
+.highlight {
+  background-color: #cef;
 }
