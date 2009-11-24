@@ -6,3 +6,10 @@
 #hd a:hover {
   text-decoration: underline;
 }
+
+#mesh_tree_list {
+  margin-top: 1em;
+}
+#mesh_tree_list ul {
+  margin: 0 0 0 1.5em;
+}
