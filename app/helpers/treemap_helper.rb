@@ -5,6 +5,7 @@ module TreemapHelper
       current = content_tag(:ul, content_tag(:li, content_tag(:strong, tree.subject.term) + list, :id => "mesh_tree_#{tree.id}"))
       list = tree.ancestors.reverse.inject(current) {|html, c|  content_tag(:ul, content_tag(:li, link_to(c.subject.term, treemap_path(:id => c.id, :year => year)) + "\n" + html, :id => "mesh_tree_#{c.id}"))}
     end
+    list = link_to_unless_current("<strong>MeSH</strong>", treemap_path(:year => year, :id => nil)) + list
     content_tag(:div, list, :id => "mesh_tree_list")
   end
 

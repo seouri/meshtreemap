@@ -4,6 +4,5 @@
 <%= treemap(@tree, @year) %>
 <% end %>
 <% content_for :treenav do %>
-<%= link_to_unless_current("<strong>MeSH</strong>", treemap_path(:year => @year, :id => nil)) %>
 <%= treelist(@tree, @year) %>
 <% end %>

@@ -7,7 +7,7 @@
   text-decoration: underline;
 }
 
-#mesh_tree_list {
+div#mesh_tree_list > ul {
   margin-top: 1em;
 }
 #mesh_tree_list ul {
