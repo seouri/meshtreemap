@@ -1,6 +1,6 @@
 <% content_for :treemap do %>
 <%= SubjectStat.years.map {|year| link_to_unless_current(year, treemap_path(:id => @tree_id, :year => year)) }.join(" | ") %>
-<p />
+<p></p>
 <%= treemap(@tree, @year) %>
 <% end %>
 <% content_for :treenav do %>
